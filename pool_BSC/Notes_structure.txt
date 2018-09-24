@@ -1,0 +1,951 @@
+{
+	"verticals": [{
+		"start": "2016-08-01T00:00:00Z",
+		"blocks": [],
+		"id": "4a84d0b787c445c9b2c991f70f214d50",
+		"display_name": "关于讨论区"
+	}],
+	"start": "2016-08-01T00:00:00Z",
+	"display_name": "关于讨论区",
+	"id": "d51d87c4b77b4a02b17a6d331aa338b7"
+}, {
+	"verticals": [{
+		"start": "2016-08-01T00:00:00Z",
+		"blocks": [],
+		"id": "a0897c5b903b442b833efb72a3436e72",
+		"display_name": "课程官方微信公众平台"
+	}],
+	"start": "2016-08-01T00:00:00Z",
+	"display_name": "微信平台",
+	"id": "cca6bc36305c4eeda2d59f8220f3d7ec"
+}, {
+	"verticals": [{
+		"start": "2016-08-01T00:00:00Z",
+		"blocks": [],
+		"id": "3c3c056ea8c8407a85e220dff4ce08ce",
+		"display_name": "PA1"
+	}, {
+		"start": "2016-08-01T00:00:00Z",
+		"blocks": [],
+		"id": "1b4c6e2370d546e89d28e4b9480e7466",
+		"display_name": "PA2"
+	}, {
+		"start": "2016-08-01T00:00:00Z",
+		"blocks": [],
+		"id": "a663d0189f7e42b083ba41e704d4f3b9",
+		"display_name": "OJ相关问题"
+	}],
+	"start": "2016-08-01T00:00:00Z",
+	"display_name": "PA讨论",
+	"id": "1a540aa60a3b44c69ebcbe8b3245cd37"
+}, {
+	"verticals": [{
+		"start": "2016-08-01T00:00:00Z",
+		"blocks": [],
+		"id": "1f055decda01489da72cd69629f9f2e4",
+		"display_name": "PA晋级申请"
+	}],
+	"start": "2016-08-01T00:00:00Z",
+	"display_name": "PA晋级申请",
+	"id": "873ee8517c69487ea9b1aed2588212d7"
+}], "display_name": "第零章", "id": "b8013a2ea90a4174989bc758330c9422", "start": "2016-08-01T00:00:00Z"
+},
+
+
+
+
+
+ {
+	"is_exam": false,
+	"sequentials": [{
+		"verticals": [{
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01-A-1: 计算",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "AC1E9080F4785AB99C33DC5901307461",
+				"transcripts": {
+					"zh": "01a-1.srt"
+				},
+				"id": "7321f00db10b461f93039df886fe9e8f"
+			}],
+			"id": "0abf3f4acfc646b7a78a0eef79db15cd",
+			"display_name": "01a-1: 计算"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01a-2: \t绳索计算机",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "559B94F7C440D3F29C33DC5901307461",
+				"transcripts": {
+					"zh": "01a-2.srt"
+				},
+				"id": "102d2536030d47b4b343c3848f6f50b6"
+			}],
+			"id": "a22dcecd286e4b14a0d2186f5058302c",
+			"display_name": "01a-2: \t绳索计算机"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01a-3: \t尺规计算机",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "14BC39225843E4EF9C33DC5901307461",
+				"transcripts": {
+					"zh": "01a-3.srt"
+				},
+				"id": "a6bb13b456834d7395b7e12066029eb3"
+			}],
+			"id": "1d0c14da0f5e4da6a882558bc92d5691",
+			"display_name": "01a-3: \t尺规计算机"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01a-4: 算法",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "2DE9E3EE90755EB49C33DC5901307461",
+				"transcripts": {
+					"zh": "01a-4.srt"
+				},
+				"id": "4be5b36da31d4d15bc4afdd5a5cc1658"
+			}],
+			"id": "09391e1ef0714801b784b310c37c2570",
+			"display_name": "01a-4: 算法"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01a-5\t: 有穷性",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "4812B7C3A93E81999C33DC5901307461",
+				"transcripts": {
+					"zh": "01a-5.srt"
+				},
+				"id": "bb0f5eb0871046d4be6b17032a6dc465"
+			}, {
+				"category": "problem",
+				"extended_due": null,
+				"display_name": "quiz",
+				"id": "56c95124cec6446eaa4b5df7f4287069",
+				"due": null
+			}],
+			"id": "5d4c9259f193454ca68c250f88ab62b3",
+			"display_name": "01a-5\t: 有穷性"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01a-6\t: 好算法",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "377996C5D516E6A39C33DC5901307461",
+				"transcripts": {
+					"zh": "01a-6.srt"
+				},
+				"id": "0a9f7e9606d64d16b3fa49469532e501"
+			}, {
+				"category": "problem",
+				"extended_due": null,
+				"display_name": "quiz",
+				"id": "3e962044957944e1aab4d4016646a0ec",
+				"due": null
+			}],
+			"id": "3e47a0aaa3994d82a6faae0d829b664a",
+			"display_name": "01a-6\t: 好算法"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [],
+			"id": "399af14af4c14a9abaef36c58548c2d4",
+			"display_name": "章节讨论"
+		}],
+		"start": "2016-08-01T00:00:00Z",
+		"display_name": "（a）计算",
+		"id": "5ec3aeb4c7d74bf687b0b864befd42a9"
+	}, {
+		"verticals": [{
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-1: \t性能测度",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "B08777D231F9702D9C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-1.srt"
+				},
+				"id": "47135139ea7843ed9b38a8f48389abc7"
+			}],
+			"id": "7c99058f3ee84737a49ffabdc9a44dc7",
+			"display_name": "01b-1: \t性能测度"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-2: \t问题规模",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "A21C4001F1E144E29C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-2.srt"
+				},
+				"id": "9140466faf3a432b851aa9dab8c90768"
+			}],
+			"id": "d6103ddf252f419db0ab1dd6ec416b10",
+			"display_name": "01b-2: \t问题规模"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-3: \t最坏情况",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "AAC0E537B2CAC8A19C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-3.srt"
+				},
+				"id": "e004762167dd4c5ebd78bc05c705114e"
+			}],
+			"id": "fed876259294457e989d3648a567ee44",
+			"display_name": "01b-3: \t最坏情况"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-4: \t理想模型",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "39541E45EDCC91AD9C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-4.srt"
+				},
+				"id": "0d84c5da36f344369629c538a8a05b1d"
+			}],
+			"id": "90731e3e98c54cb3b3f22595f10cd83a",
+			"display_name": "01b-4: \t理想模型"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-5: \t图灵机",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "68343C3DFC34DCA89C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-5.srt"
+				},
+				"id": "4f46d44d24ac48fea6af1e778586d5fe"
+			}, {
+				"category": "problem",
+				"extended_due": null,
+				"display_name": "quiz",
+				"id": "9c2212cc8e86487cb3d36eed419e9148",
+				"due": null
+			}],
+			"id": "a86bdb50f2e643e099e49b26c8fc37b9",
+			"display_name": "01b-5: \t图灵机"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-6: 图灵机实例",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "346FEB87FBBA65CD9C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-6.srt"
+				},
+				"id": "add98f08e2a544099a9bf0060225f0fe"
+			}],
+			"id": "52a6c9e30f22471886d03b9bfab99763",
+			"display_name": "01b-6: 图灵机实例"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-7: \tRAM模型",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "C4DCAD733C0A193F9C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-7.srt"
+				},
+				"id": "fbb702681b9a404cb3ac552ce49e65dc"
+			}, {
+				"category": "problem",
+				"extended_due": null,
+				"display_name": "quiz",
+				"id": "c87fa1dfa15545cfa97e8778efc382aa",
+				"due": null
+			}],
+			"id": "df53f7137df6401f816aff6bb5b3c0cd",
+			"display_name": "01b-7: \tRAM模型"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01b-8: \tRAM实例",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "D0BD1B68DCA2C8F79C33DC5901307461",
+				"transcripts": {
+					"zh": "01b-8.srt"
+				},
+				"id": "c90f2f191fef400283dfc603f452dcac"
+			}],
+			"id": "e1f4276667bd4eb9acdce495c37575ca",
+			"display_name": "01b-8: \tRAM实例"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [],
+			"id": "1b0fffadd4ca4409aad066021503aa4c",
+			"display_name": "章节讨论"
+		}],
+		"start": "2016-08-01T00:00:00Z",
+		"display_name": "（b）计算模型",
+		"id": "b712b0a3477f4e7ea99d05223c23ce4b"
+	}, 
+
+
+	{"verticals": [{"start": "2016-08-01T00:00:00Z",
+			"blocks": [{"category": "video",
+			            "display_name": "01c-1: 主流长远",
+				    "track": "",
+				    "start": "2016-08-01T00:00:00Z",
+				    "ccsource": "319A2E0242B317179C33DC5901307461",
+				    "transcripts": {"zh": "01c-1.srt"},
+				    "id": "a7389b5205234b00873eadf9d0b0d802"}],
+			"id": "22e05bac224c490ba1e320670d07f125",
+			"display_name": "01c-1: 主流长远"
+			},
+		       {"start": "2016-08-01T00:00:00Z",
+			"blocks": [{"category": "video",
+				    "display_name": "01c-2: 大O记号",
+				    "track": "",
+				    "start": "2016-08-01T00:00:00Z",
+				    "ccsource": "1373FB26FF98FA5D9C33DC5901307461",
+				    "transcripts": {"zh": "01c-2.SRT"},
+				    "id": "2cd3fbd0d38042fc92c81e9523fc4677"}, 
+			            {"category": "problem",
+				     "extended_due": null,
+				     "display_name": "         ",
+				     "id": "ffdc9b39c2cf45c7891c342c9ea8ccb6",
+				     "due": null}],
+			 "id": "b54550df965b418dbf497dd90ffd3886",
+			 "display_name": "01c-2: 大O记号"
+			 }, 
+ 		        {"start": "2016-08-01T00:00:00Z",
+		       	 "blocks": [{   "category": "video",
+					"display_name": "01c-3: 高效解",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2BD278201ADB08FF9C33DC5901307461",
+					"transcripts": {"zh": "01c-3.srt"},
+					"id": "dd5e1be602f243efa8dfcc038168162b"}],
+			"id": "267d2e1ac61d4898b4cb88db0aba07e1",
+			"display_name": "01c-3: 高效解"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01c-4\t: 有效解",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "30B1E80ED8DCE6519C33DC5901307461",
+				"transcripts": {
+					"zh": "01c-4.srt"
+				},
+				"id": "141b29a77dac437cb151518a08734eb7"
+			}],
+			"id": "cf5490eb0d5b4be585830836fc7810a8",
+			"display_name": "01c-4\t: 有效解"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01c-5\t: 难解",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "417901FD7A750DB49C33DC5901307461",
+				"transcripts": {
+					"zh": "01c-5.srt"
+				},
+				"id": "5c1d7ccdf8954a3c9168f4fe4bfe2189"
+			}],
+			"id": "cda0d1c48fa741ecabf076150f7cab27",
+			"display_name": "01c-5\t: 难解"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01c-6: \t2−Subset",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "D6DB86E52F44B29E9C33DC5901307461",
+				"transcripts": {
+					"zh": "01c-6.SRT"
+				},
+				"id": "4e9bbc3fa59e4c788758c962c0bfdb43"
+			}],
+			"id": "5f83b6b20cb644b2b178f0c4c2b7be1c",
+			"display_name": "01c-6: \t2−Subset"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [{
+				"category": "video",
+				"display_name": "01c-7: \t增长速度",
+				"track": "",
+				"start": "2016-08-01T00:00:00Z",
+				"ccsource": "5F2B9EEF5E93950D9C33DC5901307461",
+				"transcripts": {
+					"zh": "01c-7.srt"
+				},
+				"id": "e41cb8134f8e4e7e90b8747d7e07642a"
+			}],
+			"id": "6af5836e0a5d4dcda9d23ba26cc69981",
+			"display_name": "01c-7: \t增长速度"
+		}, {
+			"start": "2016-08-01T00:00:00Z",
+			"blocks": [],
+			"id": "9d97a74eaf19453591b8ff2791369a72",
+			"display_name": "章节讨论"
+		}],
+		"start": "2016-08-01T00:00:00Z",
+		"display_name": "（c）大O记号",
+		"id": "dcf6afe77a434223a34a2e57f49802e8"
+	}],
+	"display_name": "第一章 绪论(上)",
+	"id": "a8c755dbb15b4bce9165d4df80f6485a",
+	"start": "2016-08-01T00:00:00Z"
+}, 
+
+
+
+
+
+
+
+{
+	"is_exam": false,
+	"sequentials": [{
+				"verticals": [{
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-1: 算法分析",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "CFD1B772B633E6C69C33DC5901307461",
+						"transcripts": {
+							"zh": "01d-1.srt"
+						},
+						"id": "e9197a1e5dc142d8aa8debae66e77a26"
+					}],
+					"id": "009b7384caed4d8a8d2fc6897561d6ea",
+					"display_name": "01d-1: 算法分析"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-2: 级数",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "5DB05E6F6C76A94B9C33DC5901307461",
+						"transcripts": {
+							"zh": "01d-2.srt"
+						},
+						"id": "c55e5ef98f9e4564af1e36c4906320e3"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "           ",
+						"id": "af8acc0108614611b69eb2b951e6146e",
+						"due": null
+					}],
+					"id": "7578a611ffcd4afaaa3c8dc977f59fe0",
+					"display_name": "01d-2: 级数"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-3: 循环",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "665F4C9105CE1CC09C33DC5901307461",
+						"transcripts": {
+							"zh": "01d-3.srt"
+						},
+						"id": "7db46e0f4fb04d5693a7b383af7ba31c"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "                ",
+						"id": "548651d5d84243b7be436954c513d644",
+						"due": null
+					}],
+					"id": "616782a8aab34e10a3c5908ae5a9af73",
+					"display_name": "01d-3: 循环"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-4: 实例：非极端元素+起泡排序",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "129C42C4F0B95E6E9C33DC5901307461",
+						"transcripts": {
+							"zh": "01d-4.srt"
+						},
+						"id": "bb7f356d07054e299db4c98da8ccbd8f"
+					}],
+					"id": "0235c98180344d7783c4107cb29de293",
+					"display_name": "01d-4: 实例：非极端元素+起泡排序"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-5: 正确性的证明",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "79E909186B11A9289C33DC5901307461",
+						"transcripts": {
+							"zh": "01d-5.srt"
+						},
+						"id": "11f7549d609e47a2b0c66ddb58aa2a36"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "              ",
+						"id": "3aa3ae9fcc1c411b857eceb4e9ef8629",
+						"due": null
+					}],
+					"id": "dcf74d16af4d47a8bf02805408fe8442",
+					"display_name": "01d-5: 正确性的证明"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-6: 封底估算-1",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "5CEA9B21AF7650249C33DC5901307461",
+						"transcripts": {},
+						"id": "33743fde12d64c5a8316910be2abba20"
+					}],
+					"id": "153aeeb3cd8b43d8904d4c2a83cacf30",
+					"display_name": "01d-6: 封底估算-1"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01d-7: 封底估算-2",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "EDE94A05763FC3539C33DC5901307461",
+						"transcripts": {
+							"zh": "01d-7.srt"
+						},
+						"id": "343926b55453457ebb2b1f0b6367a81d"
+					}],
+					"id": "de57daf735134ed9863f1d158cb6f85e",
+					"display_name": "01d-7: 封底估算-2"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [],
+					"id": "740898704af4463e96aa245c613aa1ab",
+					"display_name": "章节讨论"
+				}],
+				"start": "2016-08-01T00:00:00Z",
+				"display_name": "（d）算法分析",
+				"id": "c07c0714ac024ade9d430f1779c6a459"
+			}, {
+				"verticals": [{
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-1: 迭代与递归",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "7C7771A53E19EA009C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-1.SRT"
+						},
+						"id": "5897802a799e4492905bc0800fc6722e"
+					}],
+					"id": "0f3f121d2e444a4eb45878b14918269f",
+					"display_name": "01-E-1: 迭代与递归"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-2: 减而治之",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "D12D1B0AB298C6F99C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-2.SRT"
+						},
+						"id": "120dfdce5b184a6e813159ab6e2908d3"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "             ",
+						"id": "425b127777124f9492239318993d4e07",
+						"due": null
+					}],
+					"id": "e7565827fbc74c0bb5891873249ff230",
+					"display_name": "01-E-2: 减而治之"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-3: 递归跟踪",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "9A516E26CD8303919C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-3.SRT"
+						},
+						"id": "e1d5a3368c394a8a8048b6e6b7ceba9d"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "                 ",
+						"id": "451a3ecbea6b4df8a9ff6f0e5e84e429",
+						"due": null
+					}],
+					"id": "be733d965b6f4bad888dbc7d2e9edf6e",
+					"display_name": "01-E-3: 递归跟踪"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-4: 递推方程",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "CC10884D5F58ADAF9C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-4.SRT"
+						},
+						"id": "e144dd2bc70d48f48d5cb80a35fb8f26"
+					}],
+					"id": "1f12fb1695024d3483efebfe667f9deb",
+					"display_name": "01-E-4: 例-数组倒置"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-5: 数组倒置",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "B24E265F08DA33069C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-5.SRT"
+						},
+						"id": "7497083cd68e4de79728cce9cb2a07f5"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "             ",
+						"id": "7eabd7278f9c4068bf84b7bac7ed2074",
+						"due": null
+					}],
+					"id": "580a2c4942544378935a07f2a53647b9",
+					"display_name": "01-E-5: 数组倒置"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-6: 分而治之",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "4FA210B64D5B2C8E9C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-6.SRT"
+						},
+						"id": "d52c98802bb348399e3226231216e226"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "             ",
+						"id": "572864ee1e8f4db593cd8a42271f75ec",
+						"due": null
+					}],
+					"id": "317417daf005449c9beca310cde8a782",
+					"display_name": "01-E-6: 分而治之"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01-E-7: 二分递归：数组求和",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "7BA9DD6212F96A959C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-7.SRT"
+						},
+						"id": "e4c64dfa5b3a4dde8819d73f07f1e72a"
+					}],
+					"id": "8342748afba24be79ea39310898ad2e0",
+					"display_name": "01-E-7: 二分递归：数组求和"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01E-8\t 二分递归：Max2",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "C5611195B7B7D6539C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-8.srt"
+						},
+						"id": "c379adadf9514ca28c9aef9cc0524e41"
+					}],
+					"id": "4c7ee38dd5654875a0ca30a250662179",
+					"display_name": "01E-8\t Max2:迭代"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01E-09: Max2：二分递归",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "C905A70B6F21A9EE9C33DC5901307461",
+						"transcripts": {
+							"zh": "01E-9.srt"
+						},
+						"id": "a6b1db1302c8434f9d46489ce1d3f0af"
+					}],
+					"id": "478288524bb24e389b63760050725d52",
+					"display_name": "01E-09: Max2：二分递归"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [],
+					"id": "2a5ff6b945f14c0fa059ae7a02538828",
+					"display_name": "章节讨论"
+				}],
+				"start": "2016-08-01T00:00:00Z",
+				"display_name": "（e）迭代与递归",
+				"id": "e794869faa9844528206ba3e9ab6b640"
+			}, {
+				"verticals": [{
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-1: 动态规划",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "5B3538CA7AA4D4C09C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-1.srt"
+						},
+						"id": "34f8542572074795a4cd61ed97fd2b33"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "              ",
+						"id": "af4853a5fdfa463e92caae2209f465a5",
+						"due": null
+					}],
+					"id": "4b90cd18159e4bff811d8c048f40c6cf",
+					"display_name": "01XC-1: 动态规划"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-2: Fib()：递推方程",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "8283FC644A63C2959C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-2.srt"
+						},
+						"id": "49b3d61ff7814811b069251f0081462f"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "             ",
+						"id": "3043ebdee6ae47b0a759094c310704d7",
+						"due": null
+					}],
+					"id": "912951b63544427faf4b6f25a3e39a81",
+					"display_name": "01XC-2: Fib()：递推方程"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-3: Fib()：封底估算",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "A8D15BCDB2DD47DA9C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-3.srt"
+						},
+						"id": "d2666b8a836b4d6c8e1d12939b218493"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "",
+						"id": "447ac3fe235a47129da7ab93a814d8f0",
+						"due": null
+					}],
+					"id": "361b3cf970d24f96982e45e06d0c06fc",
+					"display_name": "01XC-3: Fib()：封底估算"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-4: Fib()：递归跟踪",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "C7BEC09862B1E30A9C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-4.srt"
+						},
+						"id": "80fcf851e63e4ac398d993340b95dad1"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "",
+						"id": "2ce7fc330006451e9fcafefda7f993b7",
+						"due": null
+					}],
+					"id": "893ad5741b4a42c5b13ca815c8e1c9f7",
+					"display_name": "01XC-4: Fib()：递归跟踪"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-5: Fib()：迭代",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "B8D59598C292EE429C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-5.srt"
+						},
+						"id": "5372d31bb3a4444bb3540d4af446d7b2"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "",
+						"id": "57c9bf64360040f782762efe66c5654e",
+						"due": null
+					}],
+					"id": "ed5129d76a70494ea5babee12ceff0b3",
+					"display_name": "01XC-5: Fib()：迭代"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-6: 最长公共子序列",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "1A1AACE3586C4B3C9C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-6.srt"
+						},
+						"id": "e92164a19150478681c1beaa4c8daba0"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "",
+						"id": "82592b1ec3eb4720af0ed48d71b0ba9f",
+						"due": null
+					}],
+					"id": "8d3e20992c5c46258dfc1dcd74581fee",
+					"display_name": "01XC-6: 最长公共子序列"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-7: LCS：递归",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "F1C94E7EC5AC237B9C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-7.srt"
+						},
+						"id": "420c5af2e90a45c897c04bf453a436ac"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "              ",
+						"id": "4482dfb75f514c51b3355c0da366774c",
+						"due": null
+					}],
+					"id": "2884d3ea62494b41b61e98169ac04ec9",
+					"display_name": "01XC-7: LCS：递归"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-8: LCS：理解",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "ADB234F12745151F9C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-8.srt"
+						},
+						"id": "426aefada003441ca5c6891fe9ec3b82"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "              ",
+						"id": "c65836b8966a4033b15bf47be2a0fa50",
+						"due": null
+					}],
+					"id": "91316007c5b049b9b53e6e6a1ba9b154",
+					"display_name": "01XC-8: LCS：理解"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-9: LCS：复杂度",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "2C28CB60CC5337A99C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-9.srt"
+						},
+						"id": "5f63ee449c424c9aa5aaafc78918ac64"
+					}],
+					"id": "3035150edb6648aead1815090a3cda8e",
+					"display_name": "01XC-9: LCS：复杂度"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+						"category": "video",
+						"display_name": "01XC-A: LCS：动态规划",
+						"track": "",
+						"start": "2016-08-01T00:00:00Z",
+						"ccsource": "C676FEC765CE4B6F9C33DC5901307461",
+						"transcripts": {
+							"zh": "01XC-A.srt"
+						},
+						"id": "cecac02d741043ffacdfa7443ce8e56c"
+					}, {
+						"category": "problem",
+						"extended_due": null,
+						"display_name": "单选题",
+						"id": "298f342e909d4980ad1ef182e7661780",
+						"due": null
+					}],
+					"id": "eba7094be2194d92ae666283f478a205",
+					"display_name": "01XC-A: LCS：动态规划"
+				}, {
+					"start": "2016-08-01T00:00:00Z",
+					"blocks": [],
+					"id": "55c551cdd14947328a1d37b881daa4f3",
+					"display_name": "章节讨论"
+				}],
+				"start": "2016-08-01T00:00:00Z",
+				"display_name": "（xc）动态规划",
+				"id": "5d5870b4ca7e42ccb7a10bf444055f6d"
+			}

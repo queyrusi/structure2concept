@@ -1,0 +1,5735 @@
+{
+	"problem_count": 169,
+	"video_count": 235,
+	"chapters": [{
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "b615009718b445fb8f785cf763631936",
+				"display_name": "写在选课之前"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "Video",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C366D9E085AD2F709C33DC5901307461",
+					"transcripts": {},
+					"id": "4f184a3de72d418caccbd3fa8624d5b6"
+				}],
+				"id": "16dcd569be3f4cb594eedf1f46e5ffa0",
+				"display_name": "宣传片"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "选课之前",
+			"id": "53f8a6d435084015ab919439d7f5f59a"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "cda17c30f52d4de2a69d402cd88e4601",
+				"display_name": "考核方式"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "考核方式",
+			"id": "c36d5357c9844ff292e2eef1a5dcbfc0"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "568c8d8017f44ba18667c9722e312112",
+				"display_name": "关于OJ系统"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "1-注册与登录",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4F98F11DC5B4C78C9C33DC5901307461",
+					"transcripts": {},
+					"id": "8f8dfcd0911949c8aeb12f205e515d73"
+				}],
+				"id": "08a7f7729ae042f78bf470a0f910da1c",
+				"display_name": "1-注册与登录"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "2-界面与选课",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D7A99B2A1D5C236E9C33DC5901307461",
+					"transcripts": {},
+					"id": "cd6f7232eb2a40e9b36d7a7c18101e83"
+				}],
+				"id": "5278a694e5ce49c9b5afcb108ffc1fd0",
+				"display_name": "2-界面与选课"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "3-提交测试",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "86B8EBA8A72AA4199C33DC5901307461",
+					"transcripts": {},
+					"id": "4e0ddbba07194d8d80740fe7f6e038a3"
+				}],
+				"id": "88fdf162314546caa30e7008fdb0ec33",
+				"display_name": "3-提交测试"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "OJ系统说明",
+			"id": "245992e9f6e64cd3bb316ce864a5bc72"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "adeb5058cb30496b88cfe76b496e6dd7",
+				"display_name": "OJ帐号验证"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "OJ帐号验证",
+			"id": "f23ab823b5954a0fb2deefbdd568ee73"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "475ac86c5d9a4fa3859d8efd29ab1233",
+				"display_name": "课程教材与讲义"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "关于课程教材与讲义",
+			"id": "31b9b906c4d543e5a52e0e95a05fa465"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "4a84d0b787c445c9b2c991f70f214d50",
+				"display_name": "关于讨论区"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "关于讨论区",
+			"id": "d51d87c4b77b4a02b17a6d331aa338b7"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "a0897c5b903b442b833efb72a3436e72",
+				"display_name": "课程官方微信公众平台"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "微信平台",
+			"id": "cca6bc36305c4eeda2d59f8220f3d7ec"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "3c3c056ea8c8407a85e220dff4ce08ce",
+				"display_name": "PA1"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "1b4c6e2370d546e89d28e4b9480e7466",
+				"display_name": "PA2"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "a663d0189f7e42b083ba41e704d4f3b9",
+				"display_name": "OJ相关问题"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "PA讨论",
+			"id": "1a540aa60a3b44c69ebcbe8b3245cd37"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "1f055decda01489da72cd69629f9f2e4",
+				"display_name": "PA晋级申请"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "PA晋级申请",
+			"id": "873ee8517c69487ea9b1aed2588212d7"
+		}],
+		"display_name": "第零章",
+		"id": "b8013a2ea90a4174989bc758330c9422",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-A-1: 计算",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "AC1E9080F4785AB99C33DC5901307461",
+					"transcripts": {
+						"zh": "01a-1.srt"
+					},
+					"id": "7321f00db10b461f93039df886fe9e8f"
+				}],
+				"id": "0abf3f4acfc646b7a78a0eef79db15cd",
+				"display_name": "01a-1: 计算"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01a-2: \t绳索计算机",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "559B94F7C440D3F29C33DC5901307461",
+					"transcripts": {
+						"zh": "01a-2.srt"
+					},
+					"id": "102d2536030d47b4b343c3848f6f50b6"
+				}],
+				"id": "a22dcecd286e4b14a0d2186f5058302c",
+				"display_name": "01a-2: \t绳索计算机"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01a-3: \t尺规计算机",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "14BC39225843E4EF9C33DC5901307461",
+					"transcripts": {
+						"zh": "01a-3.srt"
+					},
+					"id": "a6bb13b456834d7395b7e12066029eb3"
+				}],
+				"id": "1d0c14da0f5e4da6a882558bc92d5691",
+				"display_name": "01a-3: \t尺规计算机"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01a-4: 算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2DE9E3EE90755EB49C33DC5901307461",
+					"transcripts": {
+						"zh": "01a-4.srt"
+					},
+					"id": "4be5b36da31d4d15bc4afdd5a5cc1658"
+				}],
+				"id": "09391e1ef0714801b784b310c37c2570",
+				"display_name": "01a-4: 算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01a-5\t: 有穷性",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4812B7C3A93E81999C33DC5901307461",
+					"transcripts": {
+						"zh": "01a-5.srt"
+					},
+					"id": "bb0f5eb0871046d4be6b17032a6dc465"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "56c95124cec6446eaa4b5df7f4287069",
+					"due": null
+				}],
+				"id": "5d4c9259f193454ca68c250f88ab62b3",
+				"display_name": "01a-5\t: 有穷性"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01a-6\t: 好算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "377996C5D516E6A39C33DC5901307461",
+					"transcripts": {
+						"zh": "01a-6.srt"
+					},
+					"id": "0a9f7e9606d64d16b3fa49469532e501"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "3e962044957944e1aab4d4016646a0ec",
+					"due": null
+				}],
+				"id": "3e47a0aaa3994d82a6faae0d829b664a",
+				"display_name": "01a-6\t: 好算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "399af14af4c14a9abaef36c58548c2d4",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（a）计算",
+			"id": "5ec3aeb4c7d74bf687b0b864befd42a9"
+		}, {
+			"verticals": [
+
+					{"start": "2016-08-01T00:00:00Z",
+					 "blocks": [{
+						    	"category": "video",
+					 	   	"display_name": "01b-1: \t性能测度",
+					    		"track": "",
+					    		"start": "2016-08-01T00:00:00Z",
+					    		"ccsource": "B08777D231F9702D9C33DC5901307461",
+					    		"transcripts": {"zh": "01b-1.srt"},
+					    		"id": "47135139ea7843ed9b38a8f48389abc7"}],
+					"id": "7c99058f3ee84737a49ffabdc9a44dc7",
+					"display_name": "01b-1: \t性能测度"
+					}, 
+
+
+					{"start": "2016-08-01T00:00:00Z",
+					 "blocks": [{
+							 "category": "video",
+							 "display_name": "01b-2: \t问题规模",
+							 "track": "",
+							 "start": "2016-08-01T00:00:00Z",
+					 		 "ccsource": "A21C4001F1E144E29C33DC5901307461",
+					 		 "transcripts": {"zh": "01b-2.srt"},
+					 		 "id": "9140466faf3a432b851aa9dab8c90768"}],
+					 "id": "d6103ddf252f419db0ab1dd6ec416b10",
+					 "display_name": "01b-2: \t问题规模"
+					}, 
+
+
+					{"start": "2016-08-01T00:00:00Z",
+					 "blocks": [{
+							"category": "video",
+							"display_name": "01b-3: \t最坏情况",
+							"track": "",
+							"start": "2016-08-01T00:00:00Z",
+							"ccsource": "AAC0E537B2CAC8A19C33DC5901307461",
+							"transcripts": {"zh": "01b-3.srt"},
+							"id": "e004762167dd4c5ebd78bc05c705114e"}],
+					"id": "fed876259294457e989d3648a567ee44",
+					"display_name": "01b-3: \t最坏情况"
+					}, 
+
+					{"start": "2016-08-01T00:00:00Z",
+					"blocks": [{
+							"category": "video",
+							"display_name": "01b-4: \t理想模型",
+							"track": "",
+							"start": "2016-08-01T00:00:00Z",
+							"ccsource": "39541E45EDCC91AD9C33DC5901307461",
+							"transcripts": {"zh": "01b-4.srt"},
+							"id": "0d84c5da36f344369629c538a8a05b1d"}],
+					"id": "90731e3e98c54cb3b3f22595f10cd83a",
+					"display_name": "01b-4: \t理想模型"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01b-5: \t图灵机",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "68343C3DFC34DCA89C33DC5901307461",
+					"transcripts": {
+						"zh": "01b-5.srt"
+					},
+					"id": "4f46d44d24ac48fea6af1e778586d5fe"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "9c2212cc8e86487cb3d36eed419e9148",
+					"due": null
+				}],
+				"id": "a86bdb50f2e643e099e49b26c8fc37b9",
+				"display_name": "01b-5: \t图灵机"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01b-6: 图灵机实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "346FEB87FBBA65CD9C33DC5901307461",
+					"transcripts": {
+						"zh": "01b-6.srt"
+					},
+					"id": "add98f08e2a544099a9bf0060225f0fe"
+				}],
+				"id": "52a6c9e30f22471886d03b9bfab99763",
+				"display_name": "01b-6: 图灵机实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01b-7: \tRAM模型",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C4DCAD733C0A193F9C33DC5901307461",
+					"transcripts": {
+						"zh": "01b-7.srt"
+					},
+					"id": "fbb702681b9a404cb3ac552ce49e65dc"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "c87fa1dfa15545cfa97e8778efc382aa",
+					"due": null
+				}],
+				"id": "df53f7137df6401f816aff6bb5b3c0cd",
+				"display_name": "01b-7: \tRAM模型"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01b-8: \tRAM实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D0BD1B68DCA2C8F79C33DC5901307461",
+					"transcripts": {
+						"zh": "01b-8.srt"
+					},
+					"id": "c90f2f191fef400283dfc603f452dcac"
+				}],
+				"id": "e1f4276667bd4eb9acdce495c37575ca",
+				"display_name": "01b-8: \tRAM实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "1b0fffadd4ca4409aad066021503aa4c",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（b）计算模型",
+			"id": "b712b0a3477f4e7ea99d05223c23ce4b"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-1: 主流长远",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "319A2E0242B317179C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-1.srt"
+					},
+					"id": "a7389b5205234b00873eadf9d0b0d802"
+				}],
+				"id": "22e05bac224c490ba1e320670d07f125",
+				"display_name": "01c-1: 主流长远"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-2: 大O记号",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1373FB26FF98FA5D9C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-2.SRT"
+					},
+					"id": "2cd3fbd0d38042fc92c81e9523fc4677"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "         ",
+					"id": "ffdc9b39c2cf45c7891c342c9ea8ccb6",
+					"due": null
+				}],
+				"id": "b54550df965b418dbf497dd90ffd3886",
+				"display_name": "01c-2: 大O记号"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-3: 高效解",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2BD278201ADB08FF9C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-3.srt"
+					},
+					"id": "dd5e1be602f243efa8dfcc038168162b"
+				}],
+				"id": "267d2e1ac61d4898b4cb88db0aba07e1",
+				"display_name": "01c-3: 高效解"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-4\t: 有效解",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "30B1E80ED8DCE6519C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-4.srt"
+					},
+					"id": "141b29a77dac437cb151518a08734eb7"
+				}],
+				"id": "cf5490eb0d5b4be585830836fc7810a8",
+				"display_name": "01c-4\t: 有效解"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-5\t: 难解",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "417901FD7A750DB49C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-5.srt"
+					},
+					"id": "5c1d7ccdf8954a3c9168f4fe4bfe2189"
+				}],
+				"id": "cda0d1c48fa741ecabf076150f7cab27",
+				"display_name": "01c-5\t: 难解"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-6: \t2−Subset",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D6DB86E52F44B29E9C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-6.SRT"
+					},
+					"id": "4e9bbc3fa59e4c788758c962c0bfdb43"
+				}],
+				"id": "5f83b6b20cb644b2b178f0c4c2b7be1c",
+				"display_name": "01c-6: \t2−Subset"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01c-7: \t增长速度",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5F2B9EEF5E93950D9C33DC5901307461",
+					"transcripts": {
+						"zh": "01c-7.srt"
+					},
+					"id": "e41cb8134f8e4e7e90b8747d7e07642a"
+				}],
+				"id": "6af5836e0a5d4dcda9d23ba26cc69981",
+				"display_name": "01c-7: \t增长速度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "9d97a74eaf19453591b8ff2791369a72",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c）大O记号",
+			"id": "dcf6afe77a434223a34a2e57f49802e8"
+		}],
+		"display_name": "第一章 绪论(上)",
+		"id": "a8c755dbb15b4bce9165d4df80f6485a",
+		"start": "2016-08-01T00:00:00Z"
+	},
+
+
+
+ {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [		{
+						"start": "2016-08-01T00:00:00Z",
+						"blocks": [{
+								"category": "video",
+								"display_name": "01d-1: 算法分析",
+								"track": "",
+								"start": "2016-08-01T00:00:00Z",
+								"ccsource": "CFD1B772B633E6C69C33DC5901307461",
+								"transcripts": {"zh": "01d-1.srt"},
+								"id": "e9197a1e5dc142d8aa8debae66e77a26"
+							  }],
+
+						"id": "009b7384caed4d8a8d2fc6897561d6ea",
+						"display_name": "01d-1: 算法分析"
+						}, 
+
+
+						{
+						"start": "2016-08-01T00:00:00Z",
+						"blocks": [{
+								"category": "video",
+								"display_name": "01d-2: 级数",
+								"track": "",
+								"start": "2016-08-01T00:00:00Z",
+								"ccsource": "5DB05E6F6C76A94B9C33DC5901307461",
+								"transcripts": {"zh": "01d-2.srt"},
+								"id": "c55e5ef98f9e4564af1e36c4906320e3"
+								}, 
+							  {
+								"category": "problem",
+								"extended_due": null,
+								"display_name": "           ",
+								"id": "af8acc0108614611b69eb2b951e6146e",
+								"due": null
+							  }],
+						"id": "7578a611ffcd4afaaa3c8dc977f59fe0",
+						"display_name": "01d-2: 级数"
+						}, 
+
+
+
+
+				{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01d-3: 循环",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "665F4C9105CE1CC09C33DC5901307461",
+					"transcripts": {
+						"zh": "01d-3.srt"
+					},
+					"id": "7db46e0f4fb04d5693a7b383af7ba31c"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "                ",
+					"id": "548651d5d84243b7be436954c513d644",
+					"due": null
+				}],
+				"id": "616782a8aab34e10a3c5908ae5a9af73",
+				"display_name": "01d-3: 循环"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01d-4: 实例：非极端元素+起泡排序",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "129C42C4F0B95E6E9C33DC5901307461",
+					"transcripts": {
+						"zh": "01d-4.srt"
+					},
+					"id": "bb7f356d07054e299db4c98da8ccbd8f"
+				}],
+				"id": "0235c98180344d7783c4107cb29de293",
+				"display_name": "01d-4: 实例：非极端元素+起泡排序"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01d-5: 正确性的证明",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "79E909186B11A9289C33DC5901307461",
+					"transcripts": {
+						"zh": "01d-5.srt"
+					},
+					"id": "11f7549d609e47a2b0c66ddb58aa2a36"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "              ",
+					"id": "3aa3ae9fcc1c411b857eceb4e9ef8629",
+					"due": null
+				}],
+				"id": "dcf74d16af4d47a8bf02805408fe8442",
+				"display_name": "01d-5: 正确性的证明"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01d-6: 封底估算-1",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5CEA9B21AF7650249C33DC5901307461",
+					"transcripts": {},
+					"id": "33743fde12d64c5a8316910be2abba20"
+				}],
+				"id": "153aeeb3cd8b43d8904d4c2a83cacf30",
+				"display_name": "01d-6: 封底估算-1"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01d-7: 封底估算-2",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "EDE94A05763FC3539C33DC5901307461",
+					"transcripts": {
+						"zh": "01d-7.srt"
+					},
+					"id": "343926b55453457ebb2b1f0b6367a81d"
+				}],
+				"id": "de57daf735134ed9863f1d158cb6f85e",
+				"display_name": "01d-7: 封底估算-2"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "740898704af4463e96aa245c613aa1ab",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d）算法分析",
+			"id": "c07c0714ac024ade9d430f1779c6a459"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-1: 迭代与递归",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "7C7771A53E19EA009C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-1.SRT"
+					},
+					"id": "5897802a799e4492905bc0800fc6722e"
+				}],
+				"id": "0f3f121d2e444a4eb45878b14918269f",
+				"display_name": "01-E-1: 迭代与递归"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-2: 减而治之",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D12D1B0AB298C6F99C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-2.SRT"
+					},
+					"id": "120dfdce5b184a6e813159ab6e2908d3"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "             ",
+					"id": "425b127777124f9492239318993d4e07",
+					"due": null
+				}],
+				"id": "e7565827fbc74c0bb5891873249ff230",
+				"display_name": "01-E-2: 减而治之"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-3: 递归跟踪",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9A516E26CD8303919C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-3.SRT"
+					},
+					"id": "e1d5a3368c394a8a8048b6e6b7ceba9d"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "                 ",
+					"id": "451a3ecbea6b4df8a9ff6f0e5e84e429",
+					"due": null
+				}],
+				"id": "be733d965b6f4bad888dbc7d2e9edf6e",
+				"display_name": "01-E-3: 递归跟踪"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-4: 递推方程",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "CC10884D5F58ADAF9C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-4.SRT"
+					},
+					"id": "e144dd2bc70d48f48d5cb80a35fb8f26"
+				}],
+				"id": "1f12fb1695024d3483efebfe667f9deb",
+				"display_name": "01-E-4: 例-数组倒置"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-5: 数组倒置",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B24E265F08DA33069C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-5.SRT"
+					},
+					"id": "7497083cd68e4de79728cce9cb2a07f5"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "             ",
+					"id": "7eabd7278f9c4068bf84b7bac7ed2074",
+					"due": null
+				}],
+				"id": "580a2c4942544378935a07f2a53647b9",
+				"display_name": "01-E-5: 数组倒置"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-6: 分而治之",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4FA210B64D5B2C8E9C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-6.SRT"
+					},
+					"id": "d52c98802bb348399e3226231216e226"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "             ",
+					"id": "572864ee1e8f4db593cd8a42271f75ec",
+					"due": null
+				}],
+				"id": "317417daf005449c9beca310cde8a782",
+				"display_name": "01-E-6: 分而治之"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01-E-7: 二分递归：数组求和",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "7BA9DD6212F96A959C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-7.SRT"
+					},
+					"id": "e4c64dfa5b3a4dde8819d73f07f1e72a"
+				}],
+				"id": "8342748afba24be79ea39310898ad2e0",
+				"display_name": "01-E-7: 二分递归：数组求和"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01E-8\t 二分递归：Max2",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C5611195B7B7D6539C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-8.srt"
+					},
+					"id": "c379adadf9514ca28c9aef9cc0524e41"
+				}],
+				"id": "4c7ee38dd5654875a0ca30a250662179",
+				"display_name": "01E-8\t Max2:迭代"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01E-09: Max2：二分递归",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C905A70B6F21A9EE9C33DC5901307461",
+					"transcripts": {
+						"zh": "01E-9.srt"
+					},
+					"id": "a6b1db1302c8434f9d46489ce1d3f0af"
+				}],
+				"id": "478288524bb24e389b63760050725d52",
+				"display_name": "01E-09: Max2：二分递归"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "2a5ff6b945f14c0fa059ae7a02538828",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e）迭代与递归",
+			"id": "e794869faa9844528206ba3e9ab6b640"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-1: 动态规划",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5B3538CA7AA4D4C09C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-1.srt"
+					},
+					"id": "34f8542572074795a4cd61ed97fd2b33"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "              ",
+					"id": "af4853a5fdfa463e92caae2209f465a5",
+					"due": null
+				}],
+				"id": "4b90cd18159e4bff811d8c048f40c6cf",
+				"display_name": "01XC-1: 动态规划"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-2: Fib()：递推方程",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8283FC644A63C2959C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-2.srt"
+					},
+					"id": "49b3d61ff7814811b069251f0081462f"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "             ",
+					"id": "3043ebdee6ae47b0a759094c310704d7",
+					"due": null
+				}],
+				"id": "912951b63544427faf4b6f25a3e39a81",
+				"display_name": "01XC-2: Fib()：递推方程"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-3: Fib()：封底估算",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A8D15BCDB2DD47DA9C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-3.srt"
+					},
+					"id": "d2666b8a836b4d6c8e1d12939b218493"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "447ac3fe235a47129da7ab93a814d8f0",
+					"due": null
+				}],
+				"id": "361b3cf970d24f96982e45e06d0c06fc",
+				"display_name": "01XC-3: Fib()：封底估算"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-4: Fib()：递归跟踪",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C7BEC09862B1E30A9C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-4.srt"
+					},
+					"id": "80fcf851e63e4ac398d993340b95dad1"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "2ce7fc330006451e9fcafefda7f993b7",
+					"due": null
+				}],
+				"id": "893ad5741b4a42c5b13ca815c8e1c9f7",
+				"display_name": "01XC-4: Fib()：递归跟踪"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-5: Fib()：迭代",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B8D59598C292EE429C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-5.srt"
+					},
+					"id": "5372d31bb3a4444bb3540d4af446d7b2"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "57c9bf64360040f782762efe66c5654e",
+					"due": null
+				}],
+				"id": "ed5129d76a70494ea5babee12ceff0b3",
+				"display_name": "01XC-5: Fib()：迭代"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-6: 最长公共子序列",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1A1AACE3586C4B3C9C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-6.srt"
+					},
+					"id": "e92164a19150478681c1beaa4c8daba0"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "82592b1ec3eb4720af0ed48d71b0ba9f",
+					"due": null
+				}],
+				"id": "8d3e20992c5c46258dfc1dcd74581fee",
+				"display_name": "01XC-6: 最长公共子序列"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-7: LCS：递归",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F1C94E7EC5AC237B9C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-7.srt"
+					},
+					"id": "420c5af2e90a45c897c04bf453a436ac"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "              ",
+					"id": "4482dfb75f514c51b3355c0da366774c",
+					"due": null
+				}],
+				"id": "2884d3ea62494b41b61e98169ac04ec9",
+				"display_name": "01XC-7: LCS：递归"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-8: LCS：理解",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "ADB234F12745151F9C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-8.srt"
+					},
+					"id": "426aefada003441ca5c6891fe9ec3b82"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "              ",
+					"id": "c65836b8966a4033b15bf47be2a0fa50",
+					"due": null
+				}],
+				"id": "91316007c5b049b9b53e6e6a1ba9b154",
+				"display_name": "01XC-8: LCS：理解"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-9: LCS：复杂度",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2C28CB60CC5337A99C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-9.srt"
+					},
+					"id": "5f63ee449c424c9aa5aaafc78918ac64"
+				}],
+				"id": "3035150edb6648aead1815090a3cda8e",
+				"display_name": "01XC-9: LCS：复杂度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "01XC-A: LCS：动态规划",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C676FEC765CE4B6F9C33DC5901307461",
+					"transcripts": {
+						"zh": "01XC-A.srt"
+					},
+					"id": "cecac02d741043ffacdfa7443ce8e56c"
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "单选题",
+					"id": "298f342e909d4980ad1ef182e7661780",
+					"due": null
+				}],
+				"id": "eba7094be2194d92ae666283f478a205",
+				"display_name": "01XC-A: LCS：动态规划"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "55c551cdd14947328a1d37b881daa4f3",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（xc）动态规划",
+			"id": "5d5870b4ca7e42ccb7a10bf444055f6d"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q1",
+					"id": "dab7ea70ebcc406f8c46efa62d3cdc06",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q2",
+					"id": "3c3e216d0af64b02a1df2607d2bfa70b",
+					"due": null
+				}],
+				"id": "29cd09d1de6943e681b2382d384f9c96",
+				"display_name": "Θ记号"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q3",
+					"id": "d560a9f486aa43f38a7d9bd48eb19705",
+					"due": null
+				}],
+				"id": "c744a4f7ff2346a3ab12c56bcb2686d4",
+				"display_name": "迭代的复杂度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q4",
+					"id": "37cc827bc2a24da89683e4678537f2fa",
+					"due": null
+				}],
+				"id": "96c62adaf92f4bf9932c93873e46ed6f",
+				"display_name": "递归的复杂度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q5",
+					"id": "f7f75a6e9b0a4360a0bc2d10ed6515e3",
+					"due": null
+				}],
+				"id": "a648877d54e247229ad196e1b390832c",
+				"display_name": "起泡排序"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "本章测验",
+			"id": "d51f1198b88243c2852c2e842d0ed950"
+		}],
+		"display_name": "第一章 绪论(下)",
+		"id": "b64e822fe8bf4fc18e86a560087efebc",
+		"start": "2016-08-01T00:00:00Z"
+	},
+
+
+
+
+
+
+ {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02A-1 接口与实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "FF9527315CA0C5BC9C33DC5901307461",
+					"transcripts": {
+						"zh": "02A-1.srt"
+					},
+					"id": "31757785fb1d4e6e984be520bc42c0db"
+				}],
+				"id": "24fba8336613496285c77a13768d1f34",
+				"display_name": "02A-1 接口与实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-a-1 quiz",
+					"id": "f028b11627024fd1912eafd979920286",
+					"due": null
+				}],
+				"id": "435896a2d9da44d1b1caca95c6ad5a94",
+				"display_name": "02A-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02A-2\t 向量ADT",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6D84F2DDECA338639C33DC5901307461",
+					"transcripts": {
+						"zh": "02A-2.srt"
+					},
+					"id": "6e7ae19e0309495083b0742fecfdcd63"
+				}],
+				"id": "1ac9b7a579264da4bcde1ef8c05b5567",
+				"display_name": "02A-2\t 向量ADT"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02A-3\t 接口操作实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4CF2155C5C14F3639C33DC5901307461",
+					"transcripts": {
+						"zh": "02A-3.srt"
+					},
+					"id": "64e4a8f775a14f58a36f10572be8ce50"
+				}],
+				"id": "f002ea9fb4f34270861d643d5e9752df",
+				"display_name": "02A-3\t 接口操作实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-A-3 quiz",
+					"id": "22c350471bdb4f1fa9913af2c17c4dfd",
+					"due": null
+				}],
+				"id": "634e54535a76409a814376629fbf5f7c",
+				"display_name": "02A-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02A-4\t 构造与析构",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "AE8EAD2FF9D7D5F39C33DC5901307461",
+					"transcripts": {
+						"zh": "02A-4.srt"
+					},
+					"id": "c022cd0c7dc9489d9dbc1be70b7bdd0e"
+				}],
+				"id": "65f1e416ce2f4f32a734bce43e9dcb54",
+				"display_name": "02A-4\t 构造与析构"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02A-5\t 复制",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C52DD484811B26749C33DC5901307461",
+					"transcripts": {
+						"zh": "02A-5.srt"
+					},
+					"id": "fc820a96d327426d81c0834d004c41f7"
+				}],
+				"id": "20972644f5b54ee3ac848b6f7b33fd2b",
+				"display_name": "02A-5\t 复制"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-A-5 quiz",
+					"id": "50f2b8945dab4da684fd92aafccdae1f",
+					"due": null
+				}],
+				"id": "8ead6afbbee549c8bbf04ddf157dfb31",
+				"display_name": "02-A-5 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "b17cf9a0753c4362a159bb5f0d90ace5",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（a）接口与实现",
+			"id": "2e24132b1a8e40ce8b5bd27b60e99b85"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02B-1\t 可扩充向量",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4E46D5C1D54D3D269C33DC5901307461",
+					"transcripts": {
+						"zh": "02B-1.srt"
+					},
+					"id": "b2efbeccf7fb4c4cbe913e728144a644"
+				}],
+				"id": "6c7733ce203240a9b4821c5b8f597d8d",
+				"display_name": "02B-1\t 可扩充向量"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02B-1 quiz",
+					"id": "11107b7f81814c2f8e9025e67042c2d9",
+					"due": null
+				}],
+				"id": "6f703882d761416a860100a57b8ed098",
+				"display_name": "02B-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02B-2\t动态空间管理",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2EFA8E31685A953D9C33DC5901307461",
+					"transcripts": {
+						"zh": "02B-2.srt"
+					},
+					"id": "4a41bc766ec0443591dc46b6c6a1062b"
+				}],
+				"id": "668aecd21f5a45f8a815d1b413ee6113",
+				"display_name": "02B-2\t 动态空间管理"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-b-2 quiz",
+					"id": "7ef35a93be4e4b56bf99a78983b354e5",
+					"due": null
+				}],
+				"id": "4ebbf14cfee04df097a47eaf205445a5",
+				"display_name": "02B-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02B-3\t 递增式扩容",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8211059A1E306FA69C33DC5901307461",
+					"transcripts": {
+						"zh": "02B-3.srt"
+					},
+					"id": "e1fb3362da7c4762a9a45dcaa4ea1174"
+				}],
+				"id": "bd12ee82582847b3a78bb583987f8fca",
+				"display_name": "02B-3\t 递增式扩容"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-b-3 quiz",
+					"id": "069dd2c64b5b4051ad362df8c82468f6",
+					"due": null
+				}],
+				"id": "6bcee25791184949a62248fcb00d987e",
+				"display_name": "02B-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02B-4\t 加倍式扩容",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D69BFAABD0A90ECC9C33DC5901307461",
+					"transcripts": {
+						"zh": "02B-4.srt"
+					},
+					"id": "5f46ef8dad7a4c2193036ef40dd0d795"
+				}],
+				"id": "a657cd97be7d4309a99adeb23cd76875",
+				"display_name": "02B-4\t 加倍式扩容"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-b-4 quiz",
+					"id": "d77a8fb16af549d3bd35adff5bf466f5",
+					"due": null
+				}],
+				"id": "ed232f1e617645ae81c99bfd30e7ed00",
+				"display_name": "02B-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02B-5\t 分摊复杂度",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "3CFB83CC95AA98AF9C33DC5901307461",
+					"transcripts": {
+						"zh": "02B-5.srt"
+					},
+					"id": "8554d022afa64361b6096f98021ca3bd"
+				}],
+				"id": "62825b05d96e4475bf9de4a9bf7b920a",
+				"display_name": "02B-5\t 分摊复杂度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02B-5 quiz",
+					"id": "02da133cb5bb41568cfbd0a33d0cf6ee",
+					"due": null
+				}],
+				"id": "e8e869af2c7349f18ebb8b81fd15dc5c",
+				"display_name": "02B-5 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "ca2e0aeb58294579b4d43b5f402be4d8",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（b）可扩充向量",
+			"id": "aa025ba9b3344e8ab09f94f256b62449"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-1\t 概述",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4F8C1DC4D66730B99C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-1.srt"
+					},
+					"id": "bcc1673e814b4d0eba297000a785a0d9"
+				}],
+				"id": "5d4063035c29408fa4a87f5b2d9c456b",
+				"display_name": "02C-1\t 概述"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-2: 循秩访问",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "33364A7B61EC2C4A9C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-2.srt"
+					},
+					"id": "08a527ec06db4cee8ad6723d8c36b603"
+				}],
+				"id": "68bf00b5a5724f3e8f58c629a3287708",
+				"display_name": "02C-2: 循秩访问"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02C-2 quiz",
+					"id": "01c72494e56b41ddba14524d3e4e0ab7",
+					"due": null
+				}],
+				"id": "160374d6da3e4cafa2bfca1c58158552",
+				"display_name": "02C-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-3 插入",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9EC35FC4A43F7A629C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-3.srt"
+					},
+					"id": "2ff3387ebf214cca85879947144b6a77"
+				}],
+				"id": "3619eb3bbeae4e8eb07b0bc90bdec7aa",
+				"display_name": "02C-3 插入"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02C-3 quiz",
+					"id": "99d9a9686c6f48099792928068a895be",
+					"due": null
+				}],
+				"id": "a0e8d61effb445ed8a8076b01f44e071",
+				"display_name": "02C-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-4 \t区间删除",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C79B566B71FFB6909C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-4.srt"
+					},
+					"id": "d7c26cad504641e6b68527dd4c8f0f1f"
+				}],
+				"id": "869d84e0fed449d6aaad6b21bb970fd5",
+				"display_name": "02C-4 \t区间删除"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02C-4 quiz",
+					"id": "c716ebcf35fc47cdaf4d4eb2b395b975",
+					"due": null
+				}],
+				"id": "74f6152d15d74c5589e743643a8794a7",
+				"display_name": "02C-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-5 单元素删除",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "37E1AF1E9EF4A7A29C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-5.srt"
+					},
+					"id": "e2edcf73020842d296069fa9fb09ff77"
+				}],
+				"id": "25fbf3b0d6c847b58af6f199a042cfd9",
+				"display_name": "02C-5 单元素删除"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-6\t 查找",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DE4EF507263D6B899C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-6.srt"
+					},
+					"id": "bcdb26ef4d8e495182acfb36c5ef57c1"
+				}],
+				"id": "b233d663320140d3b36fa1b7fa01083d",
+				"display_name": "02C-6\t 查找"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-7\t 唯一化",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E0B30427B66B66019C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-7.srt"
+					},
+					"id": "51f92c752cc149dda6d908f434e8624d"
+				}],
+				"id": "790b88ffd71b4016b675b630f0b91a6a",
+				"display_name": "02C-7\t 唯一化"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02C-7 quiz",
+					"id": "c07ffdf70f6b4e849428b271871e0e9d",
+					"due": null
+				}],
+				"id": "a884f50e2b9342ec8ff9c711524122ef",
+				"display_name": "02C-7 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02C-8\t 遍历",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "29662D43F41E72389C33DC5901307461",
+					"transcripts": {
+						"zh": "02C-8.srt"
+					},
+					"id": "0315fb304e134cf49146d1c51cf1d6e3"
+				}],
+				"id": "757cdc8acd7d4453b38a3b9cb9759b07",
+				"display_name": "02C-8\t 遍历"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02C-8 quiz",
+					"id": "a503c417ad57429893bff5e30f451b57",
+					"due": null
+				}],
+				"id": "58fa305a2d384bcd8cbfb7d86693a794",
+				"display_name": "02C-8 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "0b2b7ea645bf43069f37cc653b3c2914",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c）无序向量",
+			"id": "e8e2d193f66f43c9a8c2434b84e93238"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D1-1 \t有序性",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2A7BBAA4F9B973D39C33DC5901307461",
+					"transcripts": {
+						"zh": "02D1-1.srt"
+					},
+					"id": "431747052b834deaa87a16d57d005f1b"
+				}],
+				"id": "bd0a6500a7c74007acd53a5ee2449af4",
+				"display_name": "02D1-1 \t有序性"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-D1-1 quiz",
+					"id": "ed665bdebcfb426a91fe836760937377",
+					"due": null
+				}],
+				"id": "fe3225d5c56140238064a564d20b879b",
+				"display_name": "02-D1-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D1-2\t 唯一化（低效版）",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "0EA02104624588239C33DC5901307461",
+					"transcripts": {
+						"zh": "02D1-2.srt"
+					},
+					"id": "4fa0b09ab8ae4967b2821aa74c03e1f5"
+				}],
+				"id": "4ae49203fe2f4090be437a6c31f67b95",
+				"display_name": "02D1-2\t 唯一化（低效版）"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-D1-2 quiz",
+					"id": "230bec56d7844765a1c4821a0868195b",
+					"due": null
+				}],
+				"id": "6016b4c7a74d417896ec15927f72f302",
+				"display_name": "02D1-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D1-3\t 复杂度（低效版）",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C21CEFA11B17941F9C33DC5901307461",
+					"transcripts": {
+						"zh": "02D1-3.srt"
+					},
+					"id": "0d4d3c6979f94036b88102f88af10813"
+				}],
+				"id": "b106088b2a08432c8b5a9dd9e468c625",
+				"display_name": "02D1-3\t 复杂度（低效版）"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-D1-3 quiz",
+					"id": "a667597ada534d04b91c57b92dbf8b56",
+					"due": null
+				}],
+				"id": "8ef735172e5b4771be49c4e136507e23",
+				"display_name": "02D1-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D1-4\t 唯一化（高效版）",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8CE886854274C3299C33DC5901307461",
+					"transcripts": {
+						"zh": "02D1-4.srt"
+					},
+					"id": "838c5fcf65cc472699de619cbf85c772"
+				}],
+				"id": "fc8eba460bb344a3b4d9a7936b3ac2a4",
+				"display_name": "02D1-4\t 唯一化（高效版）"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-D1-4 quiz",
+					"id": "630f9b3d25d74a3ea57cefd1d626c9ca",
+					"due": null
+				}],
+				"id": "65d12da332f7437da7db11c058c0f368",
+				"display_name": "02D1-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D1-5\t 实例与分析（高效版）",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "CF2956CBFCE217649C33DC5901307461",
+					"transcripts": {
+						"zh": "02D1-5.srt"
+					},
+					"id": "073d6055b89649468a8762c564697eac"
+				}],
+				"id": "c9142f8e1db74e5ca7211d052557d477",
+				"display_name": "02D1-5\t 实例与分析（高效版）"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-D1-5 quiz",
+					"id": "d1a2e1699d9c498d8c3126d4572671ae",
+					"due": null
+				}],
+				"id": "83abfe64de1c48b19ab42b9d4ded223e",
+				"display_name": "02D1-5 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "68ede411045446c7917b128d6e8cc29a",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d1）有序向量：唯一化",
+			"id": "2634c8bbe1574bd8823dafc9e6ca63d2"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-1\t 概述",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "520099F6ED4137709C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-1.srt"
+					},
+					"id": "7307c85f4b264685b9ca37bcc031c7da"
+				}],
+				"id": "aa447e484aa4459db807b76048220143",
+				"display_name": "02D2-1\t 概述"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-2\t 接口",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E22979A9988D39F59C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-2.srt"
+					},
+					"id": "beccf499c02841bba57888f10f576edc"
+				}],
+				"id": "ad9340714ef0401ab2ef09745de4f1d9",
+				"display_name": "02D2-2\t 接口"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "a75cc26eb6df489cb9e1332abe3f6967",
+					"due": null
+				}],
+				"id": "aa3b83ee5c434d5faef62fcc1684e649",
+				"display_name": "02D2-2 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-3 \t语义",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "427691E71BBDCBE79C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-3.srt"
+					},
+					"id": "daae2e20f0b74d8a96bcc98753ac61ad"
+				}],
+				"id": "a3e78952f3ef49198752e22cb080776d",
+				"display_name": "02D2-3 \t语义"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "e2509e6c4020415baf98718d647f5d54",
+					"due": null
+				}],
+				"id": "a5a8a542e4a54232bc1efc621db9b529",
+				"display_name": "02D2-3 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-4 \t原理",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "93915BD6247A12939C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-4.srt"
+					},
+					"id": "826f56030f1344ad8b613f6c35443843"
+				}],
+				"id": "6d8b90c23b554b418b7b7dc658620d13",
+				"display_name": "02D2-4 \t原理"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Multiple Choice",
+					"id": "ed61680a33f240d792c333fd6b471ba1",
+					"due": null
+				}],
+				"id": "4c5a8e878b7048d1a6023db75d63ace2",
+				"display_name": "02D2-4 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-5 \t实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "0F388626830E1FF29C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-5.srt"
+					},
+					"id": "cda035de3ead4058bcbda23bf657433f"
+				}],
+				"id": "746aef1062034742865fc5e7f1946746",
+				"display_name": "02D2-5 \t实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Multiple Choice",
+					"id": "5d65d99cf6a04fc4bb8bb763f19fdadb",
+					"due": null
+				}],
+				"id": "5e6b564fb4314495bb8bdbc0b62e4824",
+				"display_name": "02D2-5 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-6\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A5884787988BC2139C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-6.srt"
+					},
+					"id": "15663d41c2294ef9bb902307e50a0a1b"
+				}],
+				"id": "c378aad99013442da7c171e0aa707967",
+				"display_name": "02D2-6\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "9188c8cba53a4626a0ef428f6242fea8",
+					"due": null
+				}],
+				"id": "671fbb4d685f434e95cb812bdc47367d",
+				"display_name": "02D2-6 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D2-7\t 查找长度",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6AA48FFC8E3067049C33DC5901307461",
+					"transcripts": {
+						"zh": "02D2-7.srt"
+					},
+					"id": "0082436c841f4ff7bd4107dd8da5da27"
+				}],
+				"id": "695030bcc54b442a96cffb9b81f75908",
+				"display_name": "02D2-7\t 查找长度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "13f699c6224b4deea4926d4a82cf8057",
+					"due": null
+				}],
+				"id": "080b3b3035c04b81aaaf296f8ceaaa8a",
+				"display_name": "02D2-7 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "f006d141ff404a499168b0336028edd2",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d2）有序向量：二分查找",
+			"id": "b74660c5560b4fe38c82f8c8cddb8863"
+		}],
+		"display_name": "第二章 向量(上)",
+		"id": "706d387daf2d4495aeb7fea3246a82ce",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D3-1\t 构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "0D90647C05D1640D9C33DC5901307461",
+					"transcripts": {
+						"zh": "02D3-1.srt"
+					},
+					"id": "5290ad158e564ab782f2ef07c3d43dfc"
+				}],
+				"id": "f08fe5ca042a4ebe99284fe94fc10b8f",
+				"display_name": "02D3-1\t 构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02D3-1 Quiz",
+					"id": "4916c069974f4e12969485faa1992c4e",
+					"due": null
+				}],
+				"id": "53584ebca82d4dd583235ae7bafb80c0",
+				"display_name": "02D3-1 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D3-2\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A291A7F96FC1DA289C33DC5901307461",
+					"transcripts": {
+						"zh": "02D3-2.srt"
+					},
+					"id": "66f10999b76a4409ba26e581e9670655"
+				}],
+				"id": "97c59aee56fd4b11ba5a5b2dc105c7f7",
+				"display_name": "02D3-2\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-d3-2 Quiz",
+					"id": "f98dd62b7e15434ab4eedfdd773e6709",
+					"due": null
+				}],
+				"id": "54b9c1a13d25434faf0c1aa817c10bc7",
+				"display_name": "02D3-2 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D3-3\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B05E0C3566D2F5C49C33DC5901307461",
+					"transcripts": {
+						"zh": "02D3-3.srt"
+					},
+					"id": "abea2b478e7f4d29b463ec0ffaa48f4c"
+				}],
+				"id": "259d5a5a8d684c7897083c8317a7008a",
+				"display_name": "02D3-3\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-d3-3 Quiz",
+					"id": "63731afec69d4214870342b896295635",
+					"due": null
+				}],
+				"id": "e2a76f945b3c4d6da532559cfd03e69a",
+				"display_name": "02D3-3 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D3-4\t 最优性",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DEFBB790B881ACD49C33DC5901307461",
+					"transcripts": {
+						"zh": "02D3-4.srt"
+					},
+					"id": "4f833f3063b44414abd69706db209e31"
+				}],
+				"id": "c3fb80cce78c496c9f936bad9568c3be",
+				"display_name": "02D3-4\t 最优性"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "9467c87edc304f7bbe5e65e01f3d6bc8",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d3）有序向量：Fibonacci查找",
+			"id": "4db8520145e24d67a67a58c650eace26"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D4-1\t 构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "810E4F3A1115BFE09C33DC5901307461",
+					"transcripts": {
+						"zh": "02D4-1.srt"
+					},
+					"id": "c0cd5053b9f5493cb0aa19753c2bf051"
+				}],
+				"id": "169a395d782e415794615787e242ec08",
+				"display_name": "02D4-1\t 构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D4-2\t 版本B",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D7D7F51E67E9FDE19C33DC5901307461",
+					"transcripts": {
+						"zh": "02D4-2.srt"
+					},
+					"id": "9d48905dbb244e4b93cea1c5b851e631"
+				}],
+				"id": "9f965ece846144d18bbca3781bb467a1",
+				"display_name": "02D4-2\t 版本B"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-d4-2 Quiz",
+					"id": "17f0e071721742238dd06a7db9c3d9ca",
+					"due": null
+				}],
+				"id": "30cd30878e2b4d4b880adc0d9960fb5e",
+				"display_name": "02D4-2 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D4-3\t 语义",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8B3D4F3644A91EAD9C33DC5901307461",
+					"transcripts": {
+						"zh": "02D4-3.srt"
+					},
+					"id": "cfe265e7a3254416aa227adc9978d124"
+				}],
+				"id": "b4df9d56950d411a8a29add80a55cc1d",
+				"display_name": "02D4-3\t 语义"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-d4-3 Quiz",
+					"id": "1835664f99f44f1bb2ca1d3320bed897",
+					"due": null
+				}],
+				"id": "58f6fba716334b52b1ff0379554bebf7",
+				"display_name": "02D4-3 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D4-4\t 版本C",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "97D0F97A8B3F813F9C33DC5901307461",
+					"transcripts": {
+						"zh": "02D4-4.srt"
+					},
+					"id": "850701855e3a4469a9492191b5031da7"
+				}],
+				"id": "f7010acb54134583b99f74043ee734cd",
+				"display_name": "02D4-4\t 版本C"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-d4-4 Quiz",
+					"id": "49c6a91c04c24747a48e2275f93dbc59",
+					"due": null
+				}],
+				"id": "9ae8917d47754fa283f59510ce4f2fdf",
+				"display_name": "02D4-4 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D4-5\t 正确性",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B0EC34E6770826529C33DC5901307461",
+					"transcripts": {
+						"zh": "02D4-5.SRT"
+					},
+					"id": "bd60ae6ed17a47868fc70bc2f8f248a6"
+				}],
+				"id": "a571c9cb84cd49e5a8470af7830feab6",
+				"display_name": "02D4-5\t 正确性"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-d4-5 Quiz",
+					"id": "7dbab9b976c34661a5278a9544f0422c",
+					"due": null
+				}],
+				"id": "1c5bf9d33044439d85e66ed5b506ad51",
+				"display_name": "02D4-5 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "ffca9e2db3864036b8c3e94874dc7219",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d4）有序向量：二分查找（改进）",
+			"id": "abf1d8d9c5cf451d87f081c5462a2954"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D5-1\t 原理",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "69EF7C332F05E3AF9C33DC5901307461",
+					"transcripts": {
+						"zh": "02D5-1.srt"
+					},
+					"id": "a9ead6cde5c24bb1a26e4112f8d2c85a"
+				}],
+				"id": "5c302e3e3f5b4e2d8d6baf8b38e3e9da",
+				"display_name": "02D5-1\t 原理"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D5-2 \t实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9DF56A6DC879DF959C33DC5901307461",
+					"transcripts": {
+						"zh": "02D5-2.srt"
+					},
+					"id": "1778f8b090bf4810bcf5cd874d873363"
+				}],
+				"id": "eded49908b97496784275dfb5f9c4cf8",
+				"display_name": "02D5-2 \t实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02D5-2 quiz",
+					"id": "cc95ac2f1c934a1a872013478a80e3d6",
+					"due": null
+				}],
+				"id": "a6e294910e1243e1bca69d99e5249d7c",
+				"display_name": "02D5-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D5-3\t 性能分析",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "150B4F2F6FDE2E979C33DC5901307461",
+					"transcripts": {
+						"zh": "02D5-3.srt"
+					},
+					"id": "2a9c9e56bab448afb723ba3415884072"
+				}],
+				"id": "21c4d80597bc4e02a94ab02799bcaf09",
+				"display_name": "02D5-3\t 性能分析"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02D5-3\t quiz",
+					"id": "b78921c1d8f143efa115f1fe14298ae4",
+					"due": null
+				}],
+				"id": "b5ae7fd9c4fd4e30a24cfdfbda8dd15c",
+				"display_name": "02D5-3\t quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D5-4\t 字宽折半",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "CD14390C04F680849C33DC5901307461",
+					"transcripts": {
+						"zh": "02D5-4.srt"
+					},
+					"id": "98510e58cf1d4caf84a8c2337dbeb063"
+				}],
+				"id": "c5766e62f75a4d53821dd5271c74025d",
+				"display_name": "02D5-4\t 字宽折半"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02D5-5\t 综合对比\t",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D60B2606B8673BC09C33DC5901307461",
+					"transcripts": {
+						"zh": "02D5-5.srt"
+					},
+					"id": "ea53acd0c8ff4f5ba97f9d6c3dc96fb3"
+				}],
+				"id": "65aa668e71ef415b89f562d493e7bfad",
+				"display_name": "02D5-5\t 综合对比\t"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "98f6fc7a7d4b4763beaefc06e5925abe",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d5）有序向量：插值查找",
+			"id": "d11ee5e640bc43cfa75dd64f773d6fec"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02 E-1\t构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C3490D9FC416DE0F9C33DC5901307461",
+					"transcripts": {
+						"zh": "02E-1.srt"
+					},
+					"id": "edcb1f86982b4b759b43b7a0a17d3008"
+				}],
+				"id": "65c9386b8e9f47b781aceb8c4a7ec729",
+				"display_name": "02 E-1\t构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02E-1 quiz",
+					"id": "de112dcf284c4f6881645165eccc85fe",
+					"due": null
+				}],
+				"id": "5e2aaaa14b4d43f9ad45367cb599edfc",
+				"display_name": "02E-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02E-2\t 改进",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "FF466191A4546D5F9C33DC5901307461",
+					"transcripts": {
+						"zh": "02E-2.srt"
+					},
+					"id": "74f81d3b802d4b5386fc05d5c7f74ce0"
+				}],
+				"id": "0702d15ab7e9456896deb4744f9d3a26",
+				"display_name": "02E-2\t 改进"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02E-2 quiz",
+					"id": "f257aa6dd13843b898050e4fa25968ab",
+					"due": null
+				}],
+				"id": "b6ad9a6e3abf42f5a60d543cd7870896",
+				"display_name": "02E-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02E-3\t 反例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4D98E909B74692CD9C33DC5901307461",
+					"transcripts": {
+						"zh": "02E-3.srt"
+					},
+					"id": "b058d7498bd646fb88966dcfaa5526b3"
+				}],
+				"id": "50ab1b744cc34edc8e69012f5987a222",
+				"display_name": "02E-3\t 反例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02E-4 \t再改进",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DC8D2EFE1D6A3EB39C33DC5901307461",
+					"transcripts": {
+						"zh": "02E-4.srt"
+					},
+					"id": "b71a1d17d7c741cfaf38b2416ca4f0ac"
+				}],
+				"id": "5b72a43a6b4c45d0865b0876dfacd46d",
+				"display_name": "02E-4 \t再改进"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02E-5\t 综合评价",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "960CDFCC4847CCD19C33DC5901307461",
+					"transcripts": {
+						"zh": "02E-5.srt"
+					},
+					"id": "2304b0b4b1ac431aba9eba746337eec5"
+				}],
+				"id": "8009b5893e4e4e17b3a21a238550d4e8",
+				"display_name": "02E-5\t 综合评价"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02E-5 quiz",
+					"id": "52b724d2d7b34629a92debd199b52753",
+					"due": null
+				}],
+				"id": "91da26648bd24805bf6af2f2693f6cd4",
+				"display_name": "02E-5 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "a146b67194c94f71a76a8eaa0ebc2b22",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e）起泡排序",
+			"id": "6c80a282db3248e38a707dc7b4db9cbf"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02F-1\t 归并排序：构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E3932563331C04EE9C33DC5901307461",
+					"transcripts": {
+						"zh": "02F-1.srt"
+					},
+					"id": "f0cabe69368147628f99e7eefe4cddbd"
+				}],
+				"id": "650ba9ec755b428287c92f1e17c2d14e",
+				"display_name": "02F-1\t 归并排序：构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02F-1\t quiz",
+					"id": "bd583ea196ac4383ba273a7b44537e9d",
+					"due": null
+				}],
+				"id": "7726a4a8e8bd4843b1c002aceb53a7ff",
+				"display_name": "02F-1\t quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02F-2 \t归并排序：主算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "89E33BD4DEDA75E39C33DC5901307461",
+					"transcripts": {
+						"zh": "02F-2.srt"
+					},
+					"id": "1c44c022606f44b4b804293c35403fa0"
+				}],
+				"id": "6ecd3ea6fc644fb5a2f1b67039b3ee6d",
+				"display_name": "02F-2 \t归并排序：主算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02F-3\t 二路归并：实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1A83C15DAD8217469C33DC5901307461",
+					"transcripts": {
+						"zh": "02F-3.srt"
+					},
+					"id": "d83bd3b1946e41649ff9d867d9699356"
+				}],
+				"id": "83773efd59d74aee92548c38e10900a4",
+				"display_name": "02F-3\t 二路归并：实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-f-3 quiz",
+					"id": "d702808a09ba472c922748382982cc3d",
+					"due": null
+				}],
+				"id": "ebd6c73061d247f0af4a44a14607b5f0",
+				"display_name": "02F-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02F-4\t 二路归并：实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E38001EB78B2248E9C33DC5901307461",
+					"transcripts": {
+						"zh": "02F-4.srt"
+					},
+					"id": "799ce5f169104dcb8c33e7eda414fdb6"
+				}],
+				"id": "ca1810319a4043ad84e18553bcdafb4e",
+				"display_name": "02F-4\t 二路归并：实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02F-5\t 二路归并：正确性",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2F5AB1FFC4C64E929C33DC5901307461",
+					"transcripts": {
+						"zh": "02F-5.srt"
+					},
+					"id": "f67984fc915541fd973ed5ac4ec9bcdb"
+				}],
+				"id": "9358d2ec205a4a4f8879bbf2ff864465",
+				"display_name": "02F-5\t 二路归并：正确性"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "02F-6 \t归并排序：性能分析",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "54EF6C4221D8D34F9C33DC5901307461",
+					"transcripts": {
+						"zh": "02F-6.srt"
+					},
+					"id": "a7ccfedca04a4963b15143274eb9c043"
+				}],
+				"id": "e8dcd54e1fc244a1b7543edde4bc681b",
+				"display_name": "02F-6 \t归并排序：性能分析"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "02-f-6 quiz",
+					"id": "e3905dc0f3004c1c98ba8b45c10cc2a7",
+					"due": null
+				}],
+				"id": "b68c412b57654eb18019685882bbe87b",
+				"display_name": "02F-6 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "f754c97b94c24dc68e7ad8639fa25e09",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（f）归并排序",
+			"id": "2c649da951724376bc495067fafd21cb"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q1",
+					"id": "f785e28d56834caf803f0a461e54b6b5",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q2",
+					"id": "e6ac13da1f824949be64a3c1bbbc1836",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q3",
+					"id": "6abdc30fc63c43cea5f45de2330044c9",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q4",
+					"id": "91a06c90f1004f18a9443ad8165dc815",
+					"due": null
+				}],
+				"id": "b521884d964243c4a3aec8149b61904f",
+				"display_name": "向量的接口与实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q5",
+					"id": "50d775124d164780a58cc20aaf55ba10",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q6",
+					"id": "d571870077a94708a8b1dfe8515fdd9b",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q7",
+					"id": "2239a7a52e2d48db9ef087a963cb1b28",
+					"due": null
+				}],
+				"id": "7de8c15411ef441bb4fbd66e0de26871",
+				"display_name": "二分查找"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q8",
+					"id": "b6eaeeaf06a44602b890f3bdc5e9b47c",
+					"due": null
+				}],
+				"id": "edcd98341259410c9f9cc72be28b0171",
+				"display_name": "斐波那契查找"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q9",
+					"id": "45d67b8ea2df45458dc414421b7d51bd",
+					"due": null
+				}],
+				"id": "cadc5f0cb594434f8b5c097b16e3c49d",
+				"display_name": "归并排序"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q10",
+					"id": "8319edc32ebb459cbbe7bc48872e12ee",
+					"due": null
+				}],
+				"id": "a24502d871d6401db054ef4b084f6260",
+				"display_name": "起泡排序"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "本章测验",
+			"id": "1e8a4ee83cff432eaee1acbd6e855321"
+		}],
+		"display_name": "第二章 向量(下)",
+		"id": "287278268b5647e384e4b6487494dad1",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03A-1\t 从静态到动态",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "3374DEC14E710F2D9C33DC5901307461",
+					"transcripts": {
+						"zh": "03A-1.srt"
+					},
+					"id": "037d3673e6c049448b7ee1f88f235205"
+				}],
+				"id": "b463f2649d6c4ffea6088bf0b399f853",
+				"display_name": "03A-1\t 从静态到动态"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03A-2\t 从向量到列表",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E273BE919A79D4DC9C33DC5901307461",
+					"transcripts": {
+						"zh": "03A-2.srt"
+					},
+					"id": "9a3c6db07648419da6e39116d29b8f53"
+				}],
+				"id": "73ebeca84fd0422d922e2b132b56a636",
+				"display_name": "03A-2\t 从向量到列表"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03A-3\t 从秩到位置",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2B1C3279D46243439C33DC5901307461",
+					"transcripts": {
+						"zh": "03A-3.srt"
+					},
+					"id": "f264ec2dbc03471aae7c76db79326e32"
+				}],
+				"id": "23a9a3032ea3463cb8401da2022a8e83",
+				"display_name": "03A-3\t 从秩到位置"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-a-3 quiz",
+					"id": "f6a9555585f543c8b5f137fa599444f9",
+					"due": null
+				}],
+				"id": "7150eea28ec244aea64021e8925943a7",
+				"display_name": "03A-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03A-4\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A6DA7BCB3FF25F2B9C33DC5901307461",
+					"transcripts": {
+						"zh": "03A-4.srt"
+					},
+					"id": "944516af8eee4fb7b24f2568a655c300"
+				}],
+				"id": "d8e4429338b64e898a2bf76cb4dace58",
+				"display_name": "03A-4\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "e5e5d32fb87741e0b7fe7c31e2037629",
+					"due": null
+				}],
+				"id": "21d032c489f74448a1d83f1921010b15",
+				"display_name": "03A-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "e77bb5cb401e4cc3b839dbb8424dcc65",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（a）接口与实现",
+			"id": "db55aa1d929e4df5ac0d98d7cad2148f"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03B-1\t 循秩访问",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "448C953C4427EBDE9C33DC5901307461",
+					"transcripts": {
+						"zh": "03B-1.srt"
+					},
+					"id": "e925d465ce86416db2898738945e3bb6"
+				}],
+				"id": "1a4a439433974b8c90a053b74e6e5b1b",
+				"display_name": "03B-1\t 循秩访问"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-b-1 quiz",
+					"id": "d67e5b2e5bce4ebe9ed779b98eb9f62a",
+					"due": null
+				}],
+				"id": "d54cdf93ba3f4c92b25ffd09ea17baf4",
+				"display_name": "03B-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03B-2\t 查找",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C97E6EB8B04B45709C33DC5901307461",
+					"transcripts": {
+						"zh": "03B-2.srt"
+					},
+					"id": "2f3da7746daa44a195e0b1690f6d824c"
+				}],
+				"id": "f6c5949e4dbd48af8baf6185e27bd90e",
+				"display_name": "03B-2\t 查找"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03B-3\t 插入与复制",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6ADB0846DEE2EB329C33DC5901307461",
+					"transcripts": {
+						"zh": "03B-3.srt"
+					},
+					"id": "f9edd711bd8741f18a32381b5d3c9f17"
+				}],
+				"id": "6ae48c4407fa412f8874f7dcc2b98d4e",
+				"display_name": "03B-3\t 插入与复制"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-b-3 quiz",
+					"id": "fa0c5e883e22487c8eaf0099fea4081e",
+					"due": null
+				}],
+				"id": "bb86e55d3250433d8c055ed9ac855da0",
+				"display_name": "03B-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03B-4\t 删除与析构",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4D6BBF054ECD9AFD9C33DC5901307461",
+					"transcripts": {
+						"zh": "03B-4.srt"
+					},
+					"id": "1a3dc83585094a9c9c386ef4605ad5ce"
+				}],
+				"id": "54dfd21f2b0d41bcb5926e361c4daa2f",
+				"display_name": "03B-4\t 删除与析构"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03B-5\t 唯一化",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "46D57350599150829C33DC5901307461",
+					"transcripts": {
+						"zh": "03B-5.srt"
+					},
+					"id": "f0b96cb6a980473eaa3b69c6a838284c"
+				}],
+				"id": "1b9598d5c1d84c1bb751d1e76422bb64",
+				"display_name": "03B-5\t 唯一化"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "050f0be5215e407da6c36ff81d083735",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（b）无序列表",
+			"id": "7a90934c41fd498285cc9e7c22a67665"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03C-1\t 唯一化·构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "FBC2821B5F96D6B89C33DC5901307461",
+					"transcripts": {
+						"zh": "03C-1.srt"
+					},
+					"id": "6522e34a2c1040adb8b36eaec2107079"
+				}],
+				"id": "7f59dd4a1f6940a28c1397b132b865d7",
+				"display_name": "03C-1\t 唯一化·构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-c-1 quiz",
+					"id": "ddebb8610dd14b46bebbf26109616dd3",
+					"due": null
+				}],
+				"id": "82c11e8b4824407f861cef124a5f5b91",
+				"display_name": "03C-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03C-2\t 唯一化·实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F78FFB08E797D5109C33DC5901307461",
+					"transcripts": {
+						"zh": "03C-2.srt"
+					},
+					"id": "a3861b18748545e2afc1a81319f2830d"
+				}],
+				"id": "e1aeb2d5f1134d10ae56ab6e1a26a50e",
+				"display_name": "03C-2\t 唯一化·实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03C-3\t 查找",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2066487B1FE9FB999C33DC5901307461",
+					"transcripts": {
+						"zh": "03C-3.srt"
+					},
+					"id": "e88c8a077218468a9c1b98918cda19ea"
+				}],
+				"id": "8507ead8d2594b1abd586b264e10cd7b",
+				"display_name": "03C-3\t 查找"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-c-3 quiz",
+					"id": "cef7274b904c4decbd014a9c5a6f64d3",
+					"due": null
+				}],
+				"id": "c8955802a1804ea384cd3e6c525ee665",
+				"display_name": "03C-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "c15f77c6659443eba24923709dca8dda",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c）有序列表",
+			"id": "263cc5f076764748b0e9f2a55092c9ba"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03D-1\t 构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "0F03A46585EF794A9C33DC5901307461",
+					"transcripts": {
+						"zh": "03D-1.srt"
+					},
+					"id": "aeac88a148d54a75b8b6fc2435c2f956"
+				}],
+				"id": "d2bb4314b15f46898e937cc916c458bc",
+				"display_name": "03D-1\t 构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03D-2\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "681157F4B7018C4D9C33DC5901307461",
+					"transcripts": {
+						"zh": "03D-2.srt"
+					},
+					"id": "4d798180e99f4e9d8307f7cac906f968"
+				}],
+				"id": "b2420bcce6e245acb9ff02e340d5cd67",
+				"display_name": "03D-2\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-d-2 quiz",
+					"id": "bdd1ab54e3174360b13ebcfd66f4abbf",
+					"due": null
+				}],
+				"id": "a93554de19774ba49b384834141055ec",
+				"display_name": "03D-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03D-3\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1D3414BBD505CAEE9C33DC5901307461",
+					"transcripts": {
+						"zh": "03D-3.srt"
+					},
+					"id": "b455bd5280e349e19480520cca0965aa"
+				}],
+				"id": "2a02e30b84f44c748e72f34b9a61f7d1",
+				"display_name": "03D-3\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03D-4\t 推敲",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "BC6409998F6AE0299C33DC5901307461",
+					"transcripts": {
+						"zh": "03D-4.srt"
+					},
+					"id": "418129b827844ee3a938aa05a652d821"
+				}],
+				"id": "25dffb8f302f48bd9c37b6fef129cdda",
+				"display_name": "03D-4\t 推敲"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03D-5\t selectMax()",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F9131B240FBB68AC9C33DC5901307461",
+					"transcripts": {
+						"zh": "03D-5.srt"
+					},
+					"id": "239b4d390af14a26bb20e674213651b9"
+				}],
+				"id": "31cef557b32245bb8676cad291d5eb44",
+				"display_name": "03D-5\t selectMax()"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-d-5 quiz",
+					"id": "b4a60b7514bb4a9fb7bf11fd34113517",
+					"due": null
+				}],
+				"id": "10976e9012924a99b5fcb0c3fd1d21df",
+				"display_name": "03D-5 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03D-6\t 性能",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "7BF76914DE444A619C33DC5901307461",
+					"transcripts": {
+						"zh": "03D-6.srt"
+					},
+					"id": "44bbc65877e44a3ca79b1f7f3577ad14"
+				}],
+				"id": "19025c8687774bfbb043863de36a0cba",
+				"display_name": "03D-6\t 性能"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "03-d-6 quiz",
+					"id": "a10077b46d8d4d529b607fc1d7671524",
+					"due": null
+				}],
+				"id": "499b434eb65048f9ab0a73b897ec70ec",
+				"display_name": "03D-6 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "13698dc1e0904d6283822dc0f85674ca",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d）选择排序",
+			"id": "9d3457b0220649e3a7fdbc1359f66714"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-1\t 经验",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4FDA1DA39CAA727D9C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-1.srt"
+					},
+					"id": "ec77c133d44849af8902c56956f03da0"
+				}],
+				"id": "5a542794a91041a59912a8730bd87b7b",
+				"display_name": "03E-1\t 经验"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-2 \t构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8EFA2E27A44894AF9C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-2.srt"
+					},
+					"id": "97e2f4a763814304a6ba97e441bd2e3e"
+				}],
+				"id": "338ecae8702345e7a2170ddd917be572",
+				"display_name": "03E-2 \t构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-3 \t对比",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8D5374C78BFFCC759C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-3.srt"
+					},
+					"id": "229ca888a7894c84b74d3c7490ac426a"
+				}],
+				"id": "b98008f5cf4f4936a722a114cec9793a",
+				"display_name": "03E-3 \t对比"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "dd8a888cc7eb4a6b930c85c228cae3b8",
+					"due": null
+				}],
+				"id": "85078dd9f8334f14971c7311f0ec8d41",
+				"display_name": "03E-3 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-4 \t实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "90B187C789410F5D9C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-4.srt"
+					},
+					"id": "ac86b310f8624a688f124f5074b7d737"
+				}],
+				"id": "8173934ab60241b189e576c68ff39e76",
+				"display_name": "03E-4 \t实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "a3593977cb9f45a786346610564eba31",
+					"due": null
+				}],
+				"id": "81b0e13e4f69419ca163b3e2287deaa7",
+				"display_name": "03E-4 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-5\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "430FCB07DE44FE309C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-5.srt"
+					},
+					"id": "82338388c5f047d88232c9cd6ba8e1e8"
+				}],
+				"id": "34325de14b67434f9af12e1b73db6ed6",
+				"display_name": "03E-5\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-6\t 性能分析",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C0A1C0A2FEACCF5B9C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-6.srt"
+					},
+					"id": "5346a848f366456d82a5bd3ccce9310e"
+				}],
+				"id": "f7ae70c2369749589727c9974c60e2aa",
+				"display_name": "03E-6\t 性能分析"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-7\t 平均性能",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "3BEA80F9C908DDC99C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-7.srt"
+					},
+					"id": "158c9fec33784f3396a02006ea933c69"
+				}],
+				"id": "44b658909027488eb14f97151e707ce9",
+				"display_name": "03E-7\t 平均性能"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "d9c159cf38604a279caf8c1f409026d9",
+					"due": null
+				}],
+				"id": "e9057baa0caa4ac781d940ac9b3b39b2",
+				"display_name": "03E-7 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03E-8\t 逆序对",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "AD7CCB43BCEDB0889C33DC5901307461",
+					"transcripts": {
+						"zh": "03E-8.srt"
+					},
+					"id": "fde9e62121c94cc09b35f8f28aa99ace"
+				}],
+				"id": "cd10a4e34ce949a18c5a51a1f23e0d64",
+				"display_name": "03E-8\t 逆序对"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "",
+					"id": "e7c1e064913c4302bc4360491ea3193c",
+					"due": null
+				}],
+				"id": "35cbd3ba0348416b84c77e887ba96d97",
+				"display_name": "03E-8 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "6e99099805e34ce199534c3819311bbe",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e）插入排序",
+			"id": "8784b2b1016741a4a1c1b21839dda1c1"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "03X\tD 习题辅导：LightHouse",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "425C6662F66626989C33DC5901307461",
+					"transcripts": {
+						"zh": "03XA.srt"
+					},
+					"id": "52598911818c415fae7a5006896c15b5"
+				}],
+				"id": "2f12b203a837439dbd111f817756db29",
+				"display_name": "03X\tD 习题辅导：LightHouse"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "4fb2a87d142345f9a7b0285a951e8291",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（xd）习题辅导：LightHouse",
+			"id": "8476776cf0144a0a8abe2b44d3a8e800"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q1",
+					"id": "b7d7d5bf713f4e2d8bef946594c4d5f4",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q2",
+					"id": "d1c9d0bd3c3b45bbbf5f5729762a8399",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q3",
+					"id": "d3d46ce18a9e494e896b93ca7b7bb18a",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q4",
+					"id": "d03fd4042ca8405683ebdca740494bef",
+					"due": null
+				}],
+				"id": "c6741a2025fc48759162cd690df3a28c",
+				"display_name": "列表的接口与实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q5",
+					"id": "7613eaa453514439b976703ebb3a4c63",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q6",
+					"id": "cdd399ba32ed4d7990f6fa098e543497",
+					"due": null
+				}],
+				"id": "1cbc32d7909a4e5c8634a8301e0065ee",
+				"display_name": "选择排序"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q7",
+					"id": "2bb1c02f79bc4a258c7ffea6b07c6d4f",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q8",
+					"id": "93a7ba2f44c04734a46ea436c682a381",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q9",
+					"id": "7b57f64691d74a95b9321f60c3108ee6",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q10",
+					"id": "60b52e7980074248b2dda9217230ec0f",
+					"due": null
+				}],
+				"id": "1f22fc8a15574798ac70909be9d628c0",
+				"display_name": "插入排序"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "本章测验",
+			"id": "4a88abcb391a4097afbbb6dd5647d497"
+		}],
+		"display_name": "第三章 列表",
+		"id": "293594d41a0a459a88e4b4a5c855e723",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04A-1\t 栈",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B961782DACEBEB189C33DC5901307461",
+					"transcripts": {
+						"zh": "04A-1.srt"
+					},
+					"id": "6d963282582a48b08c9e8730b2515478"
+				}],
+				"id": "7746951edd33487c91dc31ba5944314b",
+				"display_name": "04A-1\t 栈"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04A-2\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2568F257571E67F49C33DC5901307461",
+					"transcripts": {
+						"zh": "04A-2.srt"
+					},
+					"id": "6772819ff2964f76b3d045e717b5d33e"
+				}],
+				"id": "b1c1ecb7944f4ee4a894ab51e85bfca7",
+				"display_name": "04A-2\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "7fdb1181d12343c6a39adffbe0431a93",
+					"due": null
+				}],
+				"id": "226af2e7daf24d5b8519a0e50d560933",
+				"display_name": "04A-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04A-3\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9845A467C89E9D009C33DC5901307461",
+					"transcripts": {
+						"zh": "04A-3.srt"
+					},
+					"id": "d30da7443ec448c4800d0324c7964b49"
+				}],
+				"id": "a858eb5ffd084d188906efe3504f191e",
+				"display_name": "04A-3\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "a3f98c5c0f244c7eaacce7231d7e6844",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": " （a）栈接口与实现",
+			"id": "f32e9495b38d40278bda98ff10e6c551"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C1-1\t 应用",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "314C09E584BFCBBA9C33DC5901307461",
+					"transcripts": {
+						"zh": "04C1-1.srt"
+					},
+					"id": "c94020fad5544c8394a8547b545093cc"
+				}],
+				"id": "714c44ea1be7462598e5eb1f712f48f0",
+				"display_name": "04C1-1\t 应用"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "ca9c815b2b3e4ae3b90f36e83acbd6ef",
+					"due": null
+				}],
+				"id": "04c88aea7d2447af850dde934bc4d53a",
+				"display_name": "04C1-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C1-2\t 算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "2B97115BF93F7F1D9C33DC5901307461",
+					"transcripts": {
+						"zh": "04C1-2.srt"
+					},
+					"id": "d448e30cb7b940f3bc3f936a8a31ccbe"
+				}],
+				"id": "d7c1d59fd25047d6907ea4717a032914",
+				"display_name": "04C1-2\t 算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C1-3\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C4B18E524A28AF389C33DC5901307461",
+					"transcripts": {
+						"zh": "04C1-3.srt"
+					},
+					"id": "f771694d22244002a7d0bf87d93bc9b1"
+				}],
+				"id": "4562e77c4ccf4bbf86ac4499a7c5ccb5",
+				"display_name": "04C1-3\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "3b83e3dac6a94572b2c30d9b08e6b5a6",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c1）栈应用：进制转换",
+			"id": "a4c7d115d4bb4116a522e5971129a299"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C2-1\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "7F39EBFB99584B639C33DC5901307461",
+					"transcripts": {
+						"zh": "04C2-1.srt"
+					},
+					"id": "7e5d21b37bd7430e86b69c0387760185"
+				}],
+				"id": "23f72744eab749e5b20173334c741030",
+				"display_name": "04C2-1\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C2-2\t 尝试",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9D9FAA213FB5E8199C33DC5901307461",
+					"transcripts": {
+						"zh": "04C2-2.srt"
+					},
+					"id": "673389ee248b4342a7993aeae93a7121"
+				}],
+				"id": "04891ee554964df28b72fb6d96eeb5ea",
+				"display_name": "04C2-2\t 尝试"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C2-3\t 构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "09BFE9588856E0E19C33DC5901307461",
+					"transcripts": {
+						"zh": "04C2-3.srt"
+					},
+					"id": "b66d3b4a7b4044e2a21bf9ccbd9ddee8"
+				}],
+				"id": "a10276774cfa402495809f37e08d695b",
+				"display_name": "04C2-3\t 构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C2-4\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6D09E16519F7EA469C33DC5901307461",
+					"transcripts": {
+						"zh": "04C2-4.srt"
+					},
+					"id": "e0ab3bf4730b4b10977df47e2e7dda5a"
+				}],
+				"id": "c6e85063553d49939ace15406ae7fe96",
+				"display_name": "04C2-4\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "eaec18604ea9497b9db92f02cfee7177",
+					"due": null
+				}],
+				"id": "cbe3d28ec3e84e0b839f29f7e245b439",
+				"display_name": "04C2-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C2-5\t 反思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E8DA20F6541292669C33DC5901307461",
+					"transcripts": {
+						"zh": "04C2-5.srt"
+					},
+					"id": "500f3848da2a4ca981e8b2a5da24d89f"
+				}],
+				"id": "55f5bb17029040c8ba98c29f76244906",
+				"display_name": "04C2-5\t 反思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C2-6\t 拓展",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6422D805E63823799C33DC5901307461",
+					"transcripts": {
+						"zh": "04C2-6.srt"
+					},
+					"id": "e4f5eb106ac64d87a2f17f220a2df964"
+				}],
+				"id": "234ece4864284fc2ac3f4d3e26fd9f81",
+				"display_name": "04C2-6\t 拓展"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "a9831bf1bf7c4c1ba47a7d4541e34253",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c2）栈应用：括号匹配",
+			"id": "8d6f450e7f7a445098ae1d507fda80f6"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C3-1\t 混洗",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DE694EF6DB33D9B99C33DC5901307461",
+					"transcripts": {
+						"zh": "04C3-1.srt"
+					},
+					"id": "dd34d4fa43f449e1898509843328bd7a"
+				}],
+				"id": "86bd8fca19ae4788b920b85494dcac8d",
+				"display_name": "04C3-1\t 混洗"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "67c50bdb97e74a5c8644faeea50837fc",
+					"due": null
+				}],
+				"id": "3c1d034dc7ce4ddebec579b094906ba6",
+				"display_name": "04C3-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C3-2 \t计数",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5BB42A6BFC47D0099C33DC5901307461",
+					"transcripts": {
+						"zh": "04C3-2.srt"
+					},
+					"id": "933af8af0544432bb9eb5dd84b8e81a1"
+				}],
+				"id": "e475ba5ea40d4863b5a42974ef6d77d2",
+				"display_name": "04C3-2 \t计数"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "42f44a8198e34f718cfa33da4660eaa5",
+					"due": null
+				}],
+				"id": "1224789d40c54df3916dce023e73ccae",
+				"display_name": "04C3-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C3-3\t 甄别",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6B8785D5B82436B89C33DC5901307461",
+					"transcripts": {
+						"zh": "04C3-3.srt"
+					},
+					"id": "21e58d4ece6141d88bc7faf9b5ce4581"
+				}],
+				"id": "a868924ec5f34a7d980e00bba69c3b76",
+				"display_name": "04C3-3\t 甄别"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C3-4\t 算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "19738587BA6E6BD79C33DC5901307461",
+					"transcripts": {
+						"zh": "04C3-4.srt"
+					},
+					"id": "a996104cda334de081b0339e11d78d3f"
+				}],
+				"id": "6fe5ccfdab104a21a7499a123d507a82",
+				"display_name": "04C3-4\t 算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C3-5\t 括号",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "FB5A42180E5319709C33DC5901307461",
+					"transcripts": {
+						"zh": "04C3-5.srt"
+					},
+					"id": "068038b6abba40c7b8eec88e86e6fdc7"
+				}],
+				"id": "9c6a35fd4b504e73a6c210dbe64e32a4",
+				"display_name": "04C3-5\t 括号"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "dcfc637eba4e47cc80bc70b8bb2d9697",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c3）栈应用：栈混洗",
+			"id": "c371cd29bdcb480bb8d18295051bcd39"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4-1\t 把玩",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DD2A49352AA7B2D39C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-1.srt"
+					},
+					"id": "3f7138c460f64484a6ed444fc9c8cd1d"
+				}],
+				"id": "1aa6c88eac1448dcb8c6ace1583d3725",
+				"display_name": "04C4-1\t 把玩"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4-2\t 构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "60F6BFA93F51836E9C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-2.srt"
+					},
+					"id": "13f8196524f14d4385f218a8d0370f42"
+				}],
+				"id": "646d84ef500d41bfa5f69e2127105dd6",
+				"display_name": "04C4-2\t 构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4-3\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "BF450F8BBC33821A9C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-3.srt"
+					},
+					"id": "1fd9752d9b174687827c9df05f78711d"
+				}],
+				"id": "aff901443e504d48955052a5ee6715ce",
+				"display_name": "04C4-3\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "f600fe7c3cfc4c988168cb5151f4325b",
+					"due": null
+				}],
+				"id": "4d13609489c441ae8a7fb10461f4ae51",
+				"display_name": "04C4-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4-4\t 算法框架",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1AD0E4FADAA479859C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-4.srt"
+					},
+					"id": "5a535d85316e4967ba78006269d24728"
+				}],
+				"id": "1ae2c304fa934f8bbca08c2f4f3cb19b",
+				"display_name": "04C4-4\t 算法框架"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4-5\t 算法细节",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "0251DE4B499855559C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-5.srt"
+					},
+					"id": "f9248f6394c246109156ef776d875723"
+				}],
+				"id": "5b668da5e23542199f236f1c168d0711",
+				"display_name": "04C4-5\t 算法细节"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4−6A\t 实例A",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "389662878D9893789C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-6A.srt"
+					},
+					"id": "a55ff5ea8b8d4085bfcdd0b9fd9d451e"
+				}],
+				"id": "2498a1ffe47748938e303c5058eb7d9d",
+				"display_name": "04C4−6A\t 实例A"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4−6B\t 实例B",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "BA9120EAE8DDFFDD9C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-6B.srt"
+					},
+					"id": "6f8d535aa18e4c058c50968534d07628"
+				}],
+				"id": "35f45ad86ccb4d89a5ef43c384d14227",
+				"display_name": "04C4−6B\t 实例B"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4−6C\t 实例C",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F592CAC51CB8C6569C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-6C.srt"
+					},
+					"id": "e46560ffffd84ed98224643a103c293a"
+				}],
+				"id": "38865ca7d430472d8e49e94977c8ec8f",
+				"display_name": "04C4−6C\t 实例C"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C4-6D \t实例D",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9CA044C252A134C59C33DC5901307461",
+					"transcripts": {
+						"zh": "04C4-6D.srt"
+					},
+					"id": "20e6a69a37d14f44adc1c3b5723de3a1"
+				}],
+				"id": "3bf4f0ae23714ebf92de12757340dc68",
+				"display_name": "04C4-6D \t实例D"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "1d5d2949b63546799923874bc0ae31b9",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c4）栈应用：中缀表达式求值",
+			"id": "41f9baac0b6a4d348ee1354d5d07c30e"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C5-1 \t简化",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6760B41B914FDC879C33DC5901307461",
+					"transcripts": {
+						"zh": "04C5-1.SRT"
+					},
+					"id": "a6ced6b102524a1da100907180bc2ea0"
+				}],
+				"id": "1e68e482b50b4d89bec9df60b35d8a0a",
+				"display_name": "04C5-1 \t简化"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "23059a57c8d54a8c9124c4a486110f4a",
+					"due": null
+				}],
+				"id": "28e99183fb97404e8ceb0fda76c93e54",
+				"display_name": "04C5-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C5-2\t 体验",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1E100D71394F13489C33DC5901307461",
+					"transcripts": {
+						"zh": "04C5-2.srt"
+					},
+					"id": "2ab204dad6ea4cec97e6b7f1c9c66765"
+				}],
+				"id": "6fe712fe05254e7ca673d408400784ff",
+				"display_name": "04C5-2\t 体验"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C5-3\t 手工",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E4253D1969FF6F7B9C33DC5901307461",
+					"transcripts": {
+						"zh": "04C5-3.srt"
+					},
+					"id": "f642d14abb9e4f58bf1e07fd8c0327a8"
+				}],
+				"id": "5c77a33de7824b069b0ec1225b2e236a",
+				"display_name": "04C5-3\t 手工"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04C5-4 \t算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "39E6A19FA07679A09C33DC5901307461",
+					"transcripts": {
+						"zh": "04C5-4.srt"
+					},
+					"id": "3bf1207553bb477d831c3387967795d7"
+				}],
+				"id": "9b351ff6bc3c4101a4d8b1b2bc2c6149",
+				"display_name": "04C5-4 \t算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "f4035b4d85b74ade815031a79c45706a",
+					"due": null
+				}],
+				"id": "17855d62d0114a3dab35fa1d3d9b3a5b",
+				"display_name": "04C5-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "b12278c9bae54c96b039e1b225f24888",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c5）栈应用：逆波兰表达式",
+			"id": "c67e8c87d3994f19b3bad2795719f492"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04D-1\t 接口",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "FE3CE0B10DFDBA149C33DC5901307461",
+					"transcripts": {
+						"zh": "04D-1.srt"
+					},
+					"id": "7b0d8d06322b4379a3ca7c0d1fa2c88a"
+				}],
+				"id": "d55adee3181741de88c1eee81395e446",
+				"display_name": "04D-1\t 接口"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04D-2\t 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "243E6B5F9C4B56029C33DC5901307461",
+					"transcripts": {
+						"zh": "04D-2.srt"
+					},
+					"id": "ef7e8b6f9cf041fea45fd33e51fd5ad3"
+				}],
+				"id": "59b6d9093e6a4e05a8caaa29148cee31",
+				"display_name": "04D-2\t 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "04D-3\t 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "439455E22AA52ACD9C33DC5901307461",
+					"transcripts": {
+						"zh": "04D-3.srt"
+					},
+					"id": "4ad468ebb249412eb08e807f134bd48d"
+				}],
+				"id": "5f4cad70b0b84ebbb9ab2398eea018ec",
+				"display_name": "04D-3\t 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "1794a5e76ed3423aa7f9a834c5554396",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d）队列接口与实现",
+			"id": "eea100cd16c041c8a6263af11be7f574"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q1",
+					"id": "b888247a69cf450eb82b27b67e841a67",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q2",
+					"id": "82f2ab96592f41c78607f6de03dad1e5",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q3",
+					"id": "788a47c21ee148b3b050f622f76a923e",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q4",
+					"id": "9ef00c900a1742ec8d7fd89250b5bca7",
+					"due": null
+				}],
+				"id": "7f8fa125ea57470198ea4790b53bc416",
+				"display_name": "栈、队列的接口和实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q5",
+					"id": "7f600eeea2e046dd89509cef4bf52e9c",
+					"due": null
+				}],
+				"id": "5da40c7006df402592a00b3fc25434a7",
+				"display_name": "进制转换"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q6",
+					"id": "a57ca001236f46b39de53b8bc240a73e",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q7",
+					"id": "fe1b678c36b74779bdf710cf7cfc2203",
+					"due": null
+				}],
+				"id": "d04177d22c764362a0a2236b57d1b008",
+				"display_name": "栈混洗"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q8",
+					"id": "9cc60186e2704b9cac2440809a142e57",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q9",
+					"id": "3fd5cf4392bf400ebe06017e00289b50",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q10",
+					"id": "4ba8ba6f0bd14f11b3d7bf2b89fd7b4a",
+					"due": null
+				}],
+				"id": "2a83ff0d6ad44d908af8f2e0b0b9ced0",
+				"display_name": "表达式求值"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "本章测验",
+			"id": "aed248c5c132441ababbd199534481e8"
+		}],
+		"display_name": "第四章 栈与队列",
+		"id": "ad1a23c053df4501a3facd66ef6ccfa9",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-1 动机",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8F71129504EE17D59C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-1.srt"
+					},
+					"id": "0c8cbdd4485541fcaf10453b989a8826"
+				}],
+				"id": "ec839f99569342b4903f1ecc8c998885",
+				"display_name": "05A-1 动机"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "QUIZ",
+					"id": "1b4a98a53ad14c5b98328bcd878616e0",
+					"due": null
+				}],
+				"id": "2092584a1c1c4bbea19ee7ef88bf56c4",
+				"display_name": "05A-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-2 应用",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "6201FCDE363F22909C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-2.srt"
+					},
+					"id": "9ea442a3e5584bb6ac16e2d3e76652bb"
+				}],
+				"id": "3c52c26306494f02be8c3a4b01ea97dd",
+				"display_name": "05A-2 应用"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-3 有根树",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "86C5300C42CBFF2D9C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-3.srt"
+					},
+					"id": "550b789795e54a3dbbbc518908be2279"
+				}],
+				"id": "d0ee3b48ef05416b9d9d2ec1c2cbf540",
+				"display_name": "05A-3 有根树"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-4 有序树",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5E04C284E9DB3EED9C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-4.srt"
+					},
+					"id": "67bde2491144422f95d3b5292c514405"
+				}],
+				"id": "aac316e15b8741e19f1586d8dd500a1f",
+				"display_name": "05A-4 有序树"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "364f9bf7ee444604a8ec2606aaaeae36",
+					"due": null
+				}],
+				"id": "864804e7f54b4d21b195d5a1214a9297",
+				"display_name": "05A-4 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-5 路径+环路",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "127343C4E0F5B6A79C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-5.srt"
+					},
+					"id": "603a354968164ee9863115f9e06b4d43"
+				}],
+				"id": "bf9e608dbc5d4d12a1c09da5ea96ac05",
+				"display_name": "05A-5 路径+环路"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-6 连通+无环",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "647A5F5D90E06CBE9C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-6.srt"
+					},
+					"id": "c60ec8083d2d4027ae2857d62268e22c"
+				}],
+				"id": "2d5c3c9f0f034967a00335eb67d027ee",
+				"display_name": "05A-6 连通+无环"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "d86f3e2af08f43fdb8b2c06fde49265a",
+					"due": null
+				}],
+				"id": "4fd424709bc144588ff30a78d5887b37",
+				"display_name": "05A-6 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05A-7 深度+层次",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8E84183FE48518BF9C33DC5901307461",
+					"transcripts": {
+						"zh": "05A-7.srt"
+					},
+					"id": "f084fee254314e1889d49c64f98de330"
+				}],
+				"id": "66e30fe2c6ac4c618ac1f4ccf76e3120",
+				"display_name": "05A-7 深度+层次"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "36eac20ad2ec465ab0c17dde4b05ae79",
+					"due": null
+				}],
+				"id": "dae81407f8f145f394fb06055c5c40d6",
+				"display_name": "05A-7 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "10b5b052ec8740b191b1a431401b2785",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（a）树",
+			"id": "18933a28d4a44914b39867f7fd567d0e"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05B-1 表示法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "05AE959E0267ECBF9C33DC5901307461",
+					"transcripts": {
+						"zh": "05B-1.srt"
+					},
+					"id": "d9c6f352e9b04976893867f024219bc0"
+				}],
+				"id": "f555457a674245b99c4ad87b60d5a9fb",
+				"display_name": "05B-1 表示法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05B-2 父亲",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1D71AC4779FDFBFB9C33DC5901307461",
+					"transcripts": {
+						"zh": "05B-2.srt"
+					},
+					"id": "c6dfe1415822448d87e6c5e53e325b8c"
+				}],
+				"id": "c13e47f489a64833b64e0a8889e0da2c",
+				"display_name": "05B-2 父亲"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Quiz",
+					"id": "33b988cd2b8a4692add9b011c1dd956c",
+					"due": null
+				}],
+				"id": "dc4880cb193849e39e606c089789ffbd",
+				"display_name": "05B-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05B-3 孩子",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E6CFA2C5C77DFCC29C33DC5901307461",
+					"transcripts": {
+						"zh": "05B-3.srt"
+					},
+					"id": "6dceda10e91146ab83a3e20f3f1ee3c0"
+				}],
+				"id": "becea7a1cfd1495ba5a4de39f04800aa",
+				"display_name": "05B-3 孩子"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05B-4 父亲+孩子 ",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "0784319195102C259C33DC5901307461",
+					"transcripts": {
+						"zh": "05B-4.srt"
+					},
+					"id": "5ea880583fca4072ad5a7c654dc26054"
+				}],
+				"id": "df911abc17c84a42a935adf615fcdb59",
+				"display_name": "05B-4 父亲+孩子 "
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Quiz",
+					"id": "9e03f827f6024c0c8dd6467e03c6660b",
+					"due": null
+				}],
+				"id": "d3b9073dde0743b3a9d4847d79a37f02",
+				"display_name": "05B-4 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05B-5\t长子+兄弟",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "CE6E6B99CB210A869C33DC5901307461",
+					"transcripts": {
+						"zh": "05B-5.srt"
+					},
+					"id": "cd3c366bab31401ea9c60bb369ce4aff"
+				}],
+				"id": "d7ed2ca3790e4122a055801e95128ff2",
+				"display_name": "05B-5 长子+兄弟"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "92d02afa12f9463ca33500061f68b1f5",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（b）树的表示",
+			"id": "c0647929a0a449d5ac427faf8b5c923e"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05C-1 二叉树",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "19BFA831B59B1E599C33DC5901307461",
+					"transcripts": {
+						"zh": "05C-1.srt"
+					},
+					"id": "f18d44f7f2ff46159047e23d697d7445"
+				}],
+				"id": "f7acb57fbd42406d95a2962f181a40f7",
+				"display_name": "05C-1 二叉树"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "3d468a2f243846beac0a94ab02e50e04",
+					"due": null
+				}],
+				"id": "104e1d4e091e4873982dcc39e8e7e407",
+				"display_name": "05C-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05C-2 真二叉树",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "BE81132C867F9A3C9C33DC5901307461",
+					"transcripts": {
+						"zh": "05C-2.srt"
+					},
+					"id": "d62c4dae8fef47f887c55c6be97fe72b"
+				}],
+				"id": "93f3add714cf4cf28bdd1f72cfaf084c",
+				"display_name": "05C-2 真二叉树"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "2fbc10cce52d4abdbceecd6e9ae72858",
+					"due": null
+				}],
+				"id": "f0af1a1c14a14cefbf2c03288d28350e",
+				"display_name": "05C-2 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05C-3 描述多叉树",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1CAE0B2C45ED268F9C33DC5901307461",
+					"transcripts": {
+						"zh": "05C-3.srt"
+					},
+					"id": "288731203f3846a7a2987138e3006683"
+				}],
+				"id": "84a854be844c485db4b7a15e1a3b577b",
+				"display_name": "05C-3 描述多叉树"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "e3146b409ebe4f668c3a26d638dba0f2",
+					"due": null
+				}],
+				"id": "c6f2b77240b74fd381eaf867efc2d071",
+				"display_name": "05C-3 Quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "68e5dadf245241828c287036b359d0e0",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c）二叉树",
+			"id": "1afd392b51f441d19e63b989e3745e44"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05D-1 BinNode类",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F3BE41AC79D3BC609C33DC5901307461",
+					"transcripts": {
+						"zh": "05D-1.srt"
+					},
+					"id": "6620df2456314eaab8a92961dab2ac35"
+				}],
+				"id": "d48a9826c39f4388a4cf73195df5280a",
+				"display_name": "05D-1 BinNode类"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05D-2 BinNode接口",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "74DC9ADBCE315D8E9C33DC5901307461",
+					"transcripts": {
+						"zh": "05D-2.srt"
+					},
+					"id": "c1da5404e60a4413b2334d9e08c5389b"
+				}],
+				"id": "62dc144057904fe68445d29222828fc0",
+				"display_name": "05D-2 BinNode接口"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05D-3 BinTree类",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "AADF9657FA3454AD9C33DC5901307461",
+					"transcripts": {
+						"zh": "05D-3.srt"
+					},
+					"id": "ab6d0a65431b470bbe295a2031b472fa"
+				}],
+				"id": "eb37921627cb4c0a91119313c2b3e195",
+				"display_name": "05D-3 BinTree类"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05D-4 高度更新",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DC904A0CFFF141699C33DC5901307461",
+					"transcripts": {
+						"zh": "05D-4.srt"
+					},
+					"id": "2bcaadd0ab2f4446aedea4e70fb8cf7b"
+				}],
+				"id": "a2db00d7bf704366937d38a79c662a7a",
+				"display_name": "05D-4 高度更新"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "8958c0891ec84b488836b72afd5bd8e7",
+					"due": null
+				}],
+				"id": "82f1f60b99c6462d93c38513afee87ca",
+				"display_name": "05D-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05D-5 节点插入",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "45A7F9E2668357C69C33DC5901307461",
+					"transcripts": {
+						"zh": "05D-5.srt"
+					},
+					"id": "a48579e975c241d893a4d60edd182867"
+				}],
+				"id": "315b040db4b24ad9a2764f6f1cddd2db",
+				"display_name": "05D-5 节点插入"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "db8482b72875444f99d2ec1cb3ec82d2",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d）二叉树实现",
+			"id": "fde8bf35551743e184b8ea23278820f7"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-1 转化策略",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4738C32325CD75519C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-1.srt"
+					},
+					"id": "84d4534e385c4b18923a469fcae988e5"
+				}],
+				"id": "a7be9056316d484f807b416d6085f78b",
+				"display_name": "05E1-1 转化策略"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "4e7f47c9044746518bba9a1c8693e5b9",
+					"due": null
+				}],
+				"id": "384081a3cb6b48df89c8c41142597fc7",
+				"display_name": "05E1-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-2 遍历规则",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E6D02B5A02A9FA1A9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-2.srt"
+					},
+					"id": "67f2a402c6674ab599da8cfc7247973e"
+				}],
+				"id": "5ea1f2f25b8e4bd8b738fa98e56adde2",
+				"display_name": "05E1-2 遍历规则"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-3 递归实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D7C970452B3D01659C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-3.srt"
+					},
+					"id": "19a0ee82c50c4f2fb6869df9ab8fc29e"
+				}],
+				"id": "b3d8500eaade4c6cbb7cbf7c5f2c8860",
+				"display_name": "05E1-3 递归实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-4 迭代实现（1）",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E36D8B6CB39F028C9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-4.srt"
+					},
+					"id": "7b85f4e22503476286d8f3cfb2fe70eb"
+				}],
+				"id": "317e885639ee4bbfb7877c95ab6bc8bd",
+				"display_name": "05E1-4 迭代实现（1）"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "3d6b3af82c064ba5aaa17be6492b1844",
+					"due": null
+				}],
+				"id": "66a2e6a89d794bf0bd3926b9c710f05a",
+				"display_name": "05E1-4 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-5 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8F15732FAA642D2A9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-5.srt"
+					},
+					"id": "49596a49a13d4bf5a62ccccc6accb74e"
+				}],
+				"id": "118bb1a048a74122845c6e9b1c5d879f",
+				"display_name": "05E1-5 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-6 新思路",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "DE9BCDED0308FAB19C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-6.srt"
+					},
+					"id": "a50b2b64501541f484d4d50364407a1e"
+				}],
+				"id": "a294abb1018e4d02adaf2d772ceaa3c2",
+				"display_name": "05E1-6 新思路"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "fef368a873c64f9ea073bc5a1bae28cf",
+					"due": null
+				}],
+				"id": "fcd34950aade4cf68db188700bc850d8",
+				"display_name": "05E1-6 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-7 新构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8296B2030A1A451A9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-7.srt"
+					},
+					"id": "2f8e9e2868804c378e97e3abd1f2d3d3"
+				}],
+				"id": "a5892ebefd2544d2a5cf1e33d1d0f07a",
+				"display_name": "05E1-7 新构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-8 迭代实现（2）",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F77F3108F7E834D99C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-8.srt"
+					},
+					"id": "6a7a3d05e9b149e6b435c378af25346c"
+				}],
+				"id": "f260ae469d1f4c6f853a34627ac6b6c0",
+				"display_name": "05E1-8 迭代实现（2）"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E1-9 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D56B092D27A12EE49C33DC5901307461",
+					"transcripts": {
+						"zh": "05E1-9.srt"
+					},
+					"id": "5db205cb40c14af38355dff4f49f4347"
+				}],
+				"id": "aba7103b17d249d89fa2ee18bb2ba45d",
+				"display_name": "05E1-9 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "d3c774ebb5f84ff4bc3f921dc8a99f19",
+					"due": null
+				}],
+				"id": "cbf1f9fed15448909e6c148cc25d5ead",
+				"display_name": "05E1-9 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "1bbf66ccd12e44ef9a520f2b476d0101",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e1）先序遍历",
+			"id": "ee9506a84ba64005a06aa6dc4773f27b"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-1 递归",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E1AC723B34E258909C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-1.srt"
+					},
+					"id": "4a6d3353c1e14c80b67fdec4717fda5d"
+				}],
+				"id": "efeed6fddc524add90db1999d2853961",
+				"display_name": "05E2-1 递归"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-2 观察",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B1CB66D3A8003FA09C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-2.srt"
+					},
+					"id": "c4c65f4f4a944c24a33c0b9f3cc01c21"
+				}],
+				"id": "f4e827e500e64209aa450cd88308882a",
+				"display_name": "05E2-2 观察"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "752dadae8bf649a3bed57a702b781c7c",
+					"due": null
+				}],
+				"id": "6cd7e4c8e1d64f5c904a01440f3ce265",
+				"display_name": "05E2-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-3 思路",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1918659B252F5F419C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-3.srt"
+					},
+					"id": "f6db8296634f47be983ddabe57c12983"
+				}],
+				"id": "a90b6626720648e7a70053fd94d44111",
+				"display_name": "05E2-3 思路"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-4 构思",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A1786916515855E69C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-4.srt"
+					},
+					"id": "690aa974369b4754ac2879455cd6c526"
+				}],
+				"id": "c0ed3f9f0fa84f64917676bb85e6a2a2",
+				"display_name": "05E2-4 构思"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-5 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4493B2D1DD3BB4D59C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-5.srt"
+					},
+					"id": "da567264342f4adfb1eda2f0550f43a4"
+				}],
+				"id": "16e51f6f220f462d9ffe04d57c34f44b",
+				"display_name": "05E2-5 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-6 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "091290F6CD33FE7E9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-6.srt"
+					},
+					"id": "602f6f316c914eb88c4ac7bc5aa2e31a"
+				}],
+				"id": "0a5276c031d14efe8f4732a0bc5dd1c7",
+				"display_name": "05E2-6 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "4fd1c41c55ad4579a7d881d845ea1582",
+					"due": null
+				}],
+				"id": "8483db18750c4366aeb33126c3bbdf2d",
+				"display_name": "05E2-6 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E2-7 分摊分析",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4840AE1CCC3D7CE69C33DC5901307461",
+					"transcripts": {
+						"zh": "05E2-7.srt"
+					},
+					"id": "3793582c18894ca0902c7bd2f5087357"
+				}],
+				"id": "ca4119486ab54be097f259978adc6898",
+				"display_name": "05E2-7 分摊分析"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "58175ccd5c3b4db98f98e4b4bc201a4a",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e2）中序遍历",
+			"id": "f8558ad5b7ca423db1b5bdd9d1f6a051"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E4-1 次序",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "33D5CB6E4E918CF19C33DC5901307461",
+					"transcripts": {
+						"zh": "05E4-1.srt"
+					},
+					"id": "942b7f607c3e4606a78c321b57e97383"
+				}],
+				"id": "d83ecff975ce41f085dd2cc6e8f4f17e",
+				"display_name": "05E4-1 次序"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "25073478e7954a5b9f558d04b631e5e7",
+					"due": null
+				}],
+				"id": "80cdcf9c649d489596039862e33b4f9a",
+				"display_name": "05-e4-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E4-2 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "82FD57A1BB1CB6F79C33DC5901307461",
+					"transcripts": {
+						"zh": "05E4-2.srt"
+					},
+					"id": "c33de99552d1483996f4f8daa95e5183"
+				}],
+				"id": "d737f8992dfa4fb787bb73df0ed9203d",
+				"display_name": "05E4-2 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E4-3 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5A4AC28B2BF166789C33DC5901307461",
+					"transcripts": {
+						"zh": "05E4-3.srt"
+					},
+					"id": "d7a429b364ae45e28ded458799da521c"
+				}],
+				"id": "97d08be9fe864a708d3a879e973e994f",
+				"display_name": "05E4-3 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "10b0a68269524dd4a7f0c6f54b88da32",
+					"due": null
+				}],
+				"id": "d68c741ce2984329be083b1188bbfa59",
+				"display_name": "05E4-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "39149efb147249e3bec1b797b7938c60",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e4）层次遍历",
+			"id": "61771f57f0f847c5ae9625b6ae4b1bfb"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E5-1 遍历序列",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "49E10C4B4E4272609C33DC5901307461",
+					"transcripts": {
+						"zh": "05E5-1.srt"
+					},
+					"id": "c5f15681df5b455381f0d1519b2cbe13"
+				}],
+				"id": "d48acb570e294f7fa986d9eafb04f143",
+				"display_name": "05E5-1 遍历序列"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E5-2 (先序|后序)+中序",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "D0EC3F6C17F5839F9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E5-2.srt"
+					},
+					"id": "c971bf586d9d4051a471035ad4dc46fa"
+				}],
+				"id": "b6495d9a83f9486da7121d204140425a",
+				"display_name": "05E5-2 (先序|后序)+中序"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "7a6d7b413bc84249a3a3de7a3591fed1",
+					"due": null
+				}],
+				"id": "8ed7ec3ba9f14352b963f172eab14485",
+				"display_name": "05E5-2 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "05E5-3 (先序+后序)x真",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C2F6C09D58F3801D9C33DC5901307461",
+					"transcripts": {
+						"zh": "05E5-3.srt"
+					},
+					"id": "710d2102bc4344dd8e4b895667653446"
+				}],
+				"id": "b3272c9869ad49b2bf32bbbc7fe6e765",
+				"display_name": "05E5-3 (先序+后序)x真"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "55bdc16ea28845a386089100de720ea7",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（e5）重构",
+			"id": "b3fdcad4c3a84a8a861003eaa8b5965c"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q1",
+					"id": "1658c7eebd424a79b82a3b87f588e0ba",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q2",
+					"id": "91d63eeccbba44b3862b33d535f7eb3c",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q3",
+					"id": "2be930b6be90438fb1be55ab861433f9",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q4",
+					"id": "fc49bf4415f54d8a9e1abe84a3b5e2bb",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q5",
+					"id": "da8bb8a713a449bea0a8ca77ecdb7c39",
+					"due": null
+				}],
+				"id": "eec4b8b22c454e9b9fe829747d306d1d",
+				"display_name": "树与二叉树"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q6",
+					"id": "cb1ca58edd9e4094a1313c68f6eeacdc",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q7",
+					"id": "b778dead4d054a988958dae02bd44103",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q8",
+					"id": "4971c4c4555540b5baf2afd94500051c",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q9",
+					"id": "261dc1abcd3a427d9186221f52276aec",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q10",
+					"id": "c44463a9d7df43d7a673ae8852cd1d7b",
+					"due": null
+				}],
+				"id": "072c5a4d4a5040f5b46903229b0659e7",
+				"display_name": "二叉树的遍历"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "本章测验",
+			"id": "14416863a1ee43e6a8de4bdfe3c7c11c"
+		}],
+		"display_name": "第五章 二叉树",
+		"id": "16d8402a24fd4429a8a7cc1c8401cb1f",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06A-1 邻接+关联",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "3B01283ECDBF07429C33DC5901307461",
+					"transcripts": {
+						"zh": "06A-1.srt"
+					},
+					"id": "d1f5959882114587add7905363bf4f94"
+				}],
+				"id": "7db27e75df6045e590d0ea506533cef4",
+				"display_name": "06A-1 邻接+关联"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "cd21c1cdb2d54a3cbf716a2bca74d5a2",
+					"due": null
+				}],
+				"id": "86c8f31aa0f5488b8de334c7eed8360a",
+				"display_name": "06A-1 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06A-2 无向+有向",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "8D3A0E5E9133CBED9C33DC5901307461",
+					"transcripts": {
+						"zh": "06A-2.srt"
+					},
+					"id": "5cd6f825f9a740278cec6ddd795d7270"
+				}],
+				"id": "0fa5097a16124343b0095c19c9c6a364",
+				"display_name": "06A-2 无向+有向"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06A-3 路径+环路",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A5A8FBCFA75B66F99C33DC5901307461",
+					"transcripts": {
+						"zh": "06A-3.srt"
+					},
+					"id": "34de74b197f6475faeb7d6dc4b190669"
+				}],
+				"id": "591b0c8444714599ac91a8a9798831ce",
+				"display_name": "06A-3 路径+环路"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "42990d8bcb134303af259a59b54b17c0",
+					"due": null
+				}],
+				"id": "7ca91cfb7e45456abcf1a67e85c17140",
+				"display_name": "06A-3 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "39dc518fd50a4cffb989540bf5ee4497",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（a）概述",
+			"id": "2fe8c32d579f4ee68518b38e491dbf14"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-1 接口",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "94BB772549C0D27D9C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-1.srt"
+					},
+					"id": "6c0876ae7f6d45f089853e2e9d1fc038"
+				}],
+				"id": "55a13a204ad34946922d0afd98a20ecf",
+				"display_name": "06B1-1 接口"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-2 邻接矩阵+关联矩阵",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A63095BCFEBA27559C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-2.srt"
+					},
+					"id": "6952016a9a4143bba9b1ef1288f2792d"
+				}],
+				"id": "d78c68ef36254bdc8a4d68670c22dabf",
+				"display_name": "06B1-2 邻接矩阵+关联矩阵"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-3 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "5D668816CE9DDD469C33DC5901307461",
+					"transcripts": {
+						"zh": "dsa-06b1-3.srt"
+					},
+					"id": "ae24e9477645419583349c03fe51b4e3"
+				}],
+				"id": "2732b6437e0f4aaa96334e15627d1bad",
+				"display_name": "06B1-3 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "bf662d0ea477446097d8bde06a9ef6c3",
+					"due": null
+				}],
+				"id": "08aaa8ba2c1c483e82f1421f26c45d18",
+				"display_name": "06B1-03 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-4 顶点和边",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9C160B0D473D11CA9C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-4.srt"
+					},
+					"id": "4d91f38e79dd4c3791a5ffc0c457f957"
+				}],
+				"id": "3b0eb75df6564003adab062cfd5f8185",
+				"display_name": "06B1-4 顶点和边"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-5 邻接矩阵",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "32B66B425F9682EB9C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-5.srt"
+					},
+					"id": "e7bd5658b86e4f9a9257fc9c4efcb38f"
+				}],
+				"id": "0cf9389748c44ee6a704649131d5042a",
+				"display_name": "06B1-5 邻接矩阵"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-6 顶点静态操作",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "56A823BA22B7A2D69C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-6.srt"
+					},
+					"id": "53fc237b61c74011987cdda1055fee5d"
+				}],
+				"id": "04541d07928c449abf2a502434ac59d3",
+				"display_name": "06B1-6 顶点静态操作"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "7923a52398a14d4dbd4ebd475cd0f692",
+					"due": null
+				}],
+				"id": "c834eba26d864068b26870a6de6167dc",
+				"display_name": "06B1-6 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-7 边操作",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1A21EF0044C8CD6C9C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-7.srt"
+					},
+					"id": "04972dc691b544dfad598a2ec77c64ea"
+				}],
+				"id": "aa9aec69660e4daf84e042a0cc0c2abb",
+				"display_name": "06B1-7 边操作"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-8 顶点动态操作",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "48A5B90F4C9CC10A9C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-8.srt"
+					},
+					"id": "5f3d315c406541d2a0419b4878890d34"
+				}],
+				"id": "585ded8d50104ac18f5d2e671278c868",
+				"display_name": "06B1-8 顶点动态操作"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "bb1beafb48674f4eb500ff9bc477fc1a",
+					"due": null
+				}],
+				"id": "bc62418134aa49dcadf858b0ed48404f",
+				"display_name": "06B1-08 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06B1-9 综合评价",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "02011871B865BE459C33DC5901307461",
+					"transcripts": {
+						"zh": "06B1-9.srt"
+					},
+					"id": "e8d5e7d006264b18926357c0539f0c14"
+				}],
+				"id": "619d6cee133440e2b3935bac395c7c85",
+				"display_name": "06B1-9 综合评价"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "4de395d85601419fb28b9f5316b908ef",
+					"due": null
+				}],
+				"id": "a97acb707af4478792ce9ec1fd934fab",
+				"display_name": "06B1-09 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "931cf54b67ee45069fa265be3631b1cc",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（b1）邻接矩阵",
+			"id": "b0361a9dfb974cf3a5ffe30223e6bd0f"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-1 化繁为简",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "7BE8C6D01798D2F09C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-1.srt"
+					},
+					"id": "1001207810824c37af0cff45b80f2732"
+				}],
+				"id": "c3633a9676ee40328f7a39782c43b12c",
+				"display_name": "06C-1 化繁为简"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "31c5bd581ee44cb6b188c961020745f6",
+					"due": null
+				}],
+				"id": "153a6e090eb84beba12e0818eeed4be2",
+				"display_name": "06C-01 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-2 策略",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "90C60989A045148F9C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-2.srt"
+					},
+					"id": "8ec989ec890640eda6afe2b4e3895b77"
+				}],
+				"id": "db672c6648764ef18d062da52526efab",
+				"display_name": "06C-2 策略"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "05790e694c1c4bfdb0fec8469474b714",
+					"due": null
+				}],
+				"id": "daccf0f0185047709f0035dc926a1e66",
+				"display_name": "06C-02 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-3 实现",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "E990A5420CA3C4189C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-3.srt"
+					},
+					"id": "71f328253ddc4712af9322128fba58f0"
+				}],
+				"id": "d11ff24ad5174a0cb1e6b7e8a18b6108",
+				"display_name": "06C-3 实现"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-4 可能情况",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "CF45A51DCCB6332C9C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-4.srt"
+					},
+					"id": "9bfebe9dbe4f44ff9e3585fc07c358d7"
+				}],
+				"id": "0e88f9c8246d4f58893b88ea0b9e86dd",
+				"display_name": "06C-4 可能情况"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-5 实例",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "B6CB5D4246C8B1BD9C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-5.SRT"
+					},
+					"id": "4abaa1822b814da3b3803956693e1764"
+				}],
+				"id": "e57c8540517c4072a7da770b46999454",
+				"display_name": "06C-5 实例"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "169bf7c6c71a47b09c7eb46e4a361da5",
+					"due": null
+				}],
+				"id": "4cb1106976054bb2be23917641825895",
+				"display_name": "06C-05 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-6 多连通",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "FE8E80BDDD80838A9C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-6.srt"
+					},
+					"id": "7a4844aed3c9490f8b4e9974137dc186"
+				}],
+				"id": "23b11ea8546d44198d79da315270f466",
+				"display_name": "06C-6 多连通"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-7 复杂度",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "A8C9FB5B91664F2A9C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-7.srt"
+					},
+					"id": "d19f6b8f8d544cea9f933d1f5d18fc9a"
+				}],
+				"id": "e4dc974160da47179476b0b2879bca77",
+				"display_name": "06C-7 复杂度"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "add3a08c2a2741e8a2c08addb2e900f8",
+					"due": null
+				}],
+				"id": "db9b00696a58475e9dbc5b9e7f63f40d",
+				"display_name": "06C-07 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06C-8 最短路径",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "11EBF025C3C1C8509C33DC5901307461",
+					"transcripts": {
+						"zh": "06C-8.srt"
+					},
+					"id": "d196cc88837c47968b519c77ca3da021"
+				}],
+				"id": "7fe9cfccc1e744caabfda3d73a3b214c",
+				"display_name": "06C-8 最短路径"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "68072d543aa04959aac469aa096b466e",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（c）广度优先搜索",
+			"id": "a14628e4aaf34d34b91d10326b4c1c19"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-1 算法",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "AE035078115FA0BF9C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-1.srt"
+					},
+					"id": "a53d430aa63544fab8c23d8265aebee9"
+				}],
+				"id": "7359e6eb8c504a1797d31ba7da9b3008",
+				"display_name": "06D-1 算法"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "9486ca9d693a4acc9028308ef0a5a077",
+					"due": null
+				}],
+				"id": "a746e8b750df4a10a9c2c7089b8df05e",
+				"display_name": "06D-01 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-2 框架",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "9044D43732884D9A9C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-2.srt"
+					},
+					"id": "beae909596474718a323699ed10caff6"
+				}],
+				"id": "f17142363f1e49e0b1e8b27e0d0b89a6",
+				"display_name": "06D-2 框架"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-3 细节",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "C09AA37068114FDB9C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-3.srt"
+					},
+					"id": "1cf8544b9f9a41f19d512b064781a5d3"
+				}],
+				"id": "7c00f9ffd19e4261aa74b478ecae508d",
+				"display_name": "06D-3 细节"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "9fb2d713d32148e8b967141e6c241821",
+					"due": null
+				}],
+				"id": "ebf8f291145f42f999a9906d16dbe75e",
+				"display_name": "06D-03 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-4 无向图",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "F16953A0CE47C8F59C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-4.srt"
+					},
+					"id": "14cb413934544bbca03304387bbe60a1"
+				}],
+				"id": "2f02ffce6484459a98159c940b6c14d7",
+				"display_name": "06D-4 无向图"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "f70038b786a248e4a220ba6a5466be3a",
+					"due": null
+				}],
+				"id": "2ee3918501234d5fa0e9ae10031ca035",
+				"display_name": "06D-04 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-5 有向图",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "1E0D24FD3D27AC139C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-5.srt"
+					},
+					"id": "7d8e23332e9d49d88f1988702ca65705"
+				}],
+				"id": "7a847eccef0a4d9eb649ed24d11460c0",
+				"display_name": "06D-5 有向图"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-6 多可达域",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4FC945F8F5F8DEDC9C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-6.srt"
+					},
+					"id": "65ea4be644024dd0b21717d6c3ceae1d"
+				}],
+				"id": "9415ca6b1f784a909d4681a60efd4ac8",
+				"display_name": "06D-6 多可达域"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "video",
+					"display_name": "06D-7 嵌套引理",
+					"track": "",
+					"start": "2016-08-01T00:00:00Z",
+					"ccsource": "4785E63B3D3EC5F49C33DC5901307461",
+					"transcripts": {
+						"zh": "06D-7.srt"
+					},
+					"id": "a184af94901d4a7281af116c819d91fc"
+				}],
+				"id": "d91ec883e27f4aae824bde37ff34c119",
+				"display_name": "06D-7 嵌套引理"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "quiz",
+					"id": "3aad4a64eda1418e8c268bbcf8cce76c",
+					"due": null
+				}],
+				"id": "b27c3fd671bb4450ab4b9c8125d1a76a",
+				"display_name": "06D-07 quiz"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "537a33791c18476cb6ddfc2eb3360a38",
+				"display_name": "章节讨论"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "（d）深度优先搜索",
+			"id": "fcc4808172e04f7e9aa8d573c4151e5e"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q1",
+					"id": "1e98e81d1bf54e9594fcfe52264ef244",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q2(握手引理)",
+					"id": "eb9d6dd63e954d5883d0c005af813623",
+					"due": null
+				}],
+				"id": "9c19c2b42ae4457e9aeb5c88e682597c",
+				"display_name": "图的基本性质"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q3",
+					"id": "6d60c24ab6df4cddb2d3127a24a754e1",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q4",
+					"id": "90281b2918374a33a3fd660c0eb9e672",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q5",
+					"id": "be1ff4bb103b4d828030485defeba29b",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q6",
+					"id": "e1e83c9881c14193ba1a78cd7f650d18",
+					"due": null
+				}],
+				"id": "a580433092634e66b501fbb4d2a6dd88",
+				"display_name": "图在计算机中的表示"
+			}, {
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [{
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q7",
+					"id": "a73de921996f4c2da519903d82ec62e7",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q8",
+					"id": "4bc582b4f1084190b322aa779e9e28b8",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q9",
+					"id": "12cfc7c4b4be4f71b0c3e0c0a0a60075",
+					"due": null
+				}, {
+					"category": "problem",
+					"extended_due": null,
+					"display_name": "Q10",
+					"id": "11976c0692854ec08371230702ba5e0f",
+					"due": null
+				}],
+				"id": "96a6d8089a2b40b897e216fdee5f271b",
+				"display_name": "图搜索算法"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "本章测验",
+			"id": "708122d829834891a2f76246db88afcc"
+		}],
+		"display_name": "第六章 图",
+		"id": "a1e199c8d48345a4a910192c383741a6",
+		"start": "2016-08-01T00:00:00Z"
+	}, {
+		"is_exam": false,
+		"sequentials": [{
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "0fb4cefb5874493aa6e147ca23eb6822",
+				"display_name": "PA成绩"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "PA成绩",
+			"id": "5867498a0aac42909d01b8d27983f839"
+		}, {
+			"verticals": [{
+				"start": "2016-08-01T00:00:00Z",
+				"blocks": [],
+				"id": "6d45e7741fca434e94a3bb108debbee2",
+				"display_name": "加分"
+			}],
+			"start": "2016-08-01T00:00:00Z",
+			"display_name": "加分",
+			"id": "862e21a266d04280a9aa05639dbfaf6a"
+		}],
+		"display_name": "查询PA成绩和加分",
+		"id": "605825a110a542449da2196b28c15296",
+		"start": "2016-08-01T00:00:00Z"
+	}]
+}

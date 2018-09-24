@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py" line="297" mnemonic="L" />
+    <bookmark url="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py" line="311" mnemonic="R" />
+    <bookmark url="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py" line="322" mnemonic="F" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b6bbdc8-9d07-460a-9fc8-bbe5f07a1ba9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="influencer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="856" column="14" lean-forward="true" selection-start-line="856" selection-start-column="14" selection-end-line="856" selection-end-column="27" />
+              <folding>
+                <element signature="e#67#78#0" expanded="true" />
+                <element signature="e#546#722#0" expanded="false" />
+                <element signature="e#747#1787#0" expanded="false" />
+                <element signature="e#1816#3038#0" expanded="false" />
+                <element signature="e#5703#6471#0" expanded="false" />
+                <element signature="e#6557#6918#0" expanded="false" />
+                <element signature="e#7424#12312#0" expanded="false" />
+                <element signature="e#12747#16836#0" expanded="false" />
+                <element signature="e#16893#20287#0" expanded="false" />
+                <element signature="e#20343#26295#0" expanded="false" />
+                <element signature="e#20882#22488#0" expanded="false" />
+                <element signature="e#22543#24172#0" expanded="false" />
+                <element signature="e#24220#25288#0" expanded="false" />
+                <element signature="e#26332#26967#0" expanded="false" />
+                <element signature="e#27005#27641#0" expanded="false" />
+                <element signature="e#27700#29009#0" expanded="false" />
+                <element signature="e#29046#29121#0" expanded="false" />
+                <element signature="e#30333#33047#0" expanded="false" />
+                <element signature="e#33267#35658#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_processing_tools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/main_processing_tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="98" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="influencer_force.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="influencer_tools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dest_Designer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/Github_repositories" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py" />
+        <option value="$PROJECT_DIR$/influencer_forge_GUI/essai_pour_git.py" />
+        <option value="$PROJECT_DIR$/influencer_forge_GUI/essaiGit.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/tools/main_processing_tools.py" />
+        <option value="$PROJECT_DIR$/influencer_forge_GUI/influencer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="62" />
+    <option name="y" value="30" />
+    <option name="width" value="1340" />
+    <option name="height" value="838" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="structure2concept" type="b2602c69:ProjectViewProjectNode" />
+              <item name="structure2concept" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="structure2concept" type="b2602c69:ProjectViewProjectNode" />
+              <item name="structure2concept" type="462c0819:PsiDirectoryNode" />
+              <item name="influencer_forge_GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="structure2concept" type="b2602c69:ProjectViewProjectNode" />
+              <item name="structure2concept" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="SearchEverywhereHistoryKey" value="Influencer&#9;null&#9;null&#10;Influe&#9;null&#9;null&#10;get_rela&#9;null&#9;null&#10;get_id_map&#9;null&#9;null&#10;get_relative&#9;null&#9;null&#10;children&#9;null&#9;null&#10;check_infl&#9;null&#9;null&#10;video_list&#9;null&#9;null" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="structure2concept" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="structure2concept" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Doctests in influencer" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/influencer_forge_GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="structure2concept" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/influencer_forge_GUI/influencer.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in influencer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b6bbdc8-9d07-460a-9fc8-bbe5f07a1ba9" name="Default" comment="" />
+      <created>1534839632436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534839632436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_influencer - 2018.08.22 at 17h 14m 51s.xml">
+      <configuration name="Doctests in influencer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_influencer - 2018.08.28 at 14h 21m 48s.xml">
+      <configuration name="Doctests in influencer" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34978542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26964933" sideWeight="0.5137421" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1874106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="106" y="72" width="1280" height="698" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26964933" sideWeight="0.48625794" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$/Documents/Github repositories" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11430">
+          <caret line="762" column="49" lean-forward="false" selection-start-line="762" selection-start-column="49" selection-end-line="762" selection-end-column="49" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9960">
+          <caret line="666" column="47" lean-forward="false" selection-start-line="666" selection-start-column="47" selection-end-line="666" selection-end-column="47" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9990">
+          <caret line="666" column="47" lean-forward="false" selection-start-line="666" selection-start-column="47" selection-end-line="666" selection-end-column="47" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9960">
+          <caret line="666" column="47" lean-forward="false" selection-start-line="666" selection-start-column="47" selection-end-line="666" selection-end-column="47" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9960">
+          <caret line="666" column="47" lean-forward="false" selection-start-line="666" selection-start-column="47" selection-end-line="666" selection-end-column="47" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9960">
+          <caret line="666" column="47" lean-forward="false" selection-start-line="666" selection-start-column="47" selection-end-line="666" selection-end-column="47" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/essai_pour_git.py" />
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../COURS/1A/INFO/insecte.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/essai_pour_git.py" />
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/essaiGit.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/dest_Designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="856" column="14" lean-forward="true" selection-start-line="856" selection-start-column="14" selection-end-line="856" selection-end-column="27" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+            <element signature="e#546#722#0" expanded="false" />
+            <element signature="e#747#1787#0" expanded="false" />
+            <element signature="e#1816#3038#0" expanded="false" />
+            <element signature="e#5703#6471#0" expanded="false" />
+            <element signature="e#6557#6918#0" expanded="false" />
+            <element signature="e#7424#12312#0" expanded="false" />
+            <element signature="e#12747#16836#0" expanded="false" />
+            <element signature="e#16893#20287#0" expanded="false" />
+            <element signature="e#20343#26295#0" expanded="false" />
+            <element signature="e#20882#22488#0" expanded="false" />
+            <element signature="e#22543#24172#0" expanded="false" />
+            <element signature="e#24220#25288#0" expanded="false" />
+            <element signature="e#26332#26967#0" expanded="false" />
+            <element signature="e#27005#27641#0" expanded="false" />
+            <element signature="e#27700#29009#0" expanded="false" />
+            <element signature="e#29046#29121#0" expanded="false" />
+            <element signature="e#30333#33047#0" expanded="false" />
+            <element signature="e#33267#35658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/main_processing_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="98" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/influencer_forge_GUI/influencer_force.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

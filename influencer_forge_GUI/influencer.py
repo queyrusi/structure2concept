@@ -1009,6 +1009,7 @@ def RBI(n, parameters, video_id=one_vid_id):
                                                     up_slider(cur_inflncr_pos,
                                                               k)
                                                     ):
+                    pass
                 
 
     n -= 1
